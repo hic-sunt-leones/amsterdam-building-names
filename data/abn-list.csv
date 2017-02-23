@@ -1,668 +1,668 @@
-"id";"name";"name_start_min";"name_start_max";"name_end_min";"name_end_max";"building_type";"bag_id";"vg_id"
-"1508";"'t Boompje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3737"
-"1565";"'t Haasje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4158"
-"1559";"1100 Roe";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4143"
-"1594";"1ste Portugese Esnoga";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5430"
-"254";"Accijnshuis";"0";"0";"0";"0";;"363100012176829";
-"225";"Admiraliteitsgebouw";"0";"0";"0";"0";;"363100012180772";
-"217";"Afbraak";"0";"0";"0";"0";;"363100012171031";
-"264";"afrekeningsgebouw";"0";"0";"0";"0";;"363100012138844";
-"285";"Akerstein";"0";"0";"0";"0";;"363100012161711";
-"39";"Amstelrust";"0";"0";"0";"0";;"363100012157963";
-"220";"Amstelstad";"0";"0";"0";"0";;"363100012168547";
-"28";"Amsterdams Lyceum";"0";"0";"0";"0";;"363100012149878";
-"1522";"Amsterdamsche Bank";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005214";;"http://verdwenengebouwen.nl/gebouw/3752"
-"255";"Amsterdamse Cavaleriekazerne";"0";"0";"0";"0";;"363100012165748";
-"1580";"Amsterdamse Zeegrashandel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/5313"
-"1548";"Andreas ziekenhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3809"
-"23";"Andrieskerk";"0";"0";"0";"0";;"363100012120748";
-"1492";"Anna Paviljoen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3787"
-"116";"Apollo House";"0";"0";"0";"0";;"363100012120606";
-"290";"Apostolische kerk";"0";"0";"0";"0";;"363100012061997";
-"154";"Aquariumgebouw";"0";"0";"0";"0";;"363100012170226";
-"1634";"Arends & Co Kolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5697"
-"69";"Armeens Apostolische Kerk";"0";"0";"0";"0";;"363100012182791";
-"137";"art nouveau stijl";"0";"0";"0";"0";;"363100012156337";
-"10";"Arti et Amicitiae";"0";"0";"0";"0";;"363100012165109";
-"22";"Artis Bibliotheek";"0";"0";"0";"0";;"363100012164975";
-"194";"Atheneum Illustre";"0";"0";"0";"0";;"363100012180211";
-"1432";"Augustinus";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1263"
-"1426";"Augustinuskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/5307"
-"1469";"Augustinuskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1297"
-"1476";"Augustinuskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1302"
-"1590";"Autokerkhof Jack Maandag";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5374"
-"1379";"Automobielfabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/988"
-"1434";"Ayasofia";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1265"
-"171";"Badhuis Vogeldorp";"0";"0";"0";"0";;"363100012067531";
-"1512";"Banda Neira";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005517";;"http://verdwenengebouwen.nl/gebouw/3739"
-"287";"banpaal";"0";"0";"0";"0";;"363100012159957";
-"55";"Bedrijfsmuseum G.E.B.";"0";"0";"0";"0";;"363100012119705";
-"218";"Begijnhofkerk";"0";"0";"0";"0";;"363100012168141";
-"1411";"Bejaardenhuis St. Jacob";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005674";;"http://verdwenengebouwen.nl/gebouw/1074"
-"1370";"Beterhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006460";;"http://verdwenengebouwen.nl/gebouw/906"
-"1493";"Bethelkapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/3321"
-"50";"Bethelkerk";"0";"0";"0";"0";;"363100012094732";
-"1355";"Beurs van Hendrick de Keyser";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005222";;"http://verdwenengebouwen.nl/gebouw/239"
-"1327";"Beurs van Zocher";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005222";;"http://verdwenengebouwen.nl/gebouw/221"
-"1393";"Beurspoortje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005621";;"http://verdwenengebouwen.nl/gebouw/1009"
-"235";"bibliotheek";"0";"0";"0";"0";;"363100012170236";
-"103";"bibliotheek Artis";"0";"0";"0";"0";;"363100012164975";
-"1357";"Blooker";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/240"
-"238";"Boas fabrieksschoorsteen";"0";"0";"0";"0";;"363100012165615";
-"133";"Boerderij de Melkweg";"0";"0";"0";"0";;"363100012163761";
-"276";"Boerderij Kamplust";"0";"0";"0";"0";;"363100012125159";
-"1438";"Boerenkoolkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1270"
-"275";"Boerhaave kliniek";"0";"0";"0";"0";;"363100012233427";
-"129";"Boomkerk";"0";"0";"0";"0";;"363100012119680";
-"1510";"Boompjeskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3737"
-"1464";"Boomslootkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1295"
-"1349";"Boterwaag";"0";"0";"0";"0";"http://browser.aat-ned.nl/300312276";;"http://verdwenengebouwen.nl/gebouw/234"
-"266";"bovenlicht";"0";"0";"0";"0";;"363100012175784";
-"1581";"Brandstoffenhandel Beerepoot";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5317"
-"242";"Brienenhofje";"0";"0";"0";"0";;"363100012177254";
-"1629";"Brood en Banket A.C. Smolders";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5681"
-"54";"Brouwerij 't IJ";"0";"0";"0";"0";;"363100012169757";
-"237";"Brug 106";"0";"0";"0";"0";;"363100012169060";
-"92";"Brug 110";"0";"0";"0";"0";;"363100012185422";
-"278";"Brug 25";"0";"0";"0";"0";;"363100012171902";
-"91";"Brug 419";"0";"0";"0";"0";;"363100012120606";
-"221";"Buiksloterkerk";"0";"0";"0";"0";;"363100012160472";
-"1542";"Buitengasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3792"
-"1336";"Buitengasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/227"
-"1391";"Buitenplaats De Eendracht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005567";;"http://verdwenengebouwen.nl/gebouw/1007"
-"62";"Bungehuis";"0";"0";"0";"0";;"363100012177516";
-"1519";"Bunkers Museumplein";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006887";;"http://verdwenengebouwen.nl/gebouw/3749"
-"100";"Burcht van Berlage";"0";"0";"0";"0";;"363100012170603";
-"1334";"Burgemeester Tellegenhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007043";;"http://verdwenengebouwen.nl/gebouw/226"
-"43";"Burgerziekenhuis";"0";"0";"0";"0";;"363100012233501";
-"1293";"Bushuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006887";;"http://verdwenengebouwen.nl/gebouw/197"
-"134";"Bushuissluis";"0";"0";"0";"0";;"363100012165008";
-"1375";"C&A Damrak";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/983"
-"1356";"Cacaofabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/240"
-"1517";"Cadi-Club Prinses Irene";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007250";;"http://verdwenengebouwen.nl/gebouw/3742"
-"1589";"Cafe Billard Koffiehuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5369"
-"273";"Café Noord-Holland 1907";"0";"0";"0";"0";;"363100012156110";
-"80";"Carlton Hotel";"0";"0";"0";"0";;"363100012179398";
-"1353";"Centraal Theater";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/238"
-"1604";"Chemisch en Fysisch Laboratorium";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5475"
-"203";"Chr. Middelbare Economische School";"0";"0";"0";"0";;"363100012106478";
-"1436";"Christelijke Gereformeerde Kerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1268"
-"1550";"Cinema International";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007135";;"http://verdwenengebouwen.nl/gebouw/3811"
-"1633";"Cinema Royal";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007135";;"http://verdwenengebouwen.nl/gebouw/5695"
-"111";"Cinétol";"0";"0";"0";"0";;"363100012155412";
-"128";"Claes Reinierszhofje";"0";"0";"0";"0";;"363100012174327";
-"1381";"Clarissenklooster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006460";;"http://verdwenengebouwen.nl/gebouw/996"
-"1540";"Coca-Colafabriek Sloterdijk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/3790"
-"1394";"Commandantshuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/1015"
-"1524";"Consultatiebureau Waterlooplein";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006665";;"http://verdwenengebouwen.nl/gebouw/3753"
-"277";"Corantijnschool";"0";"0";"0";"0";;"363100012080308";
-"1395";"Cornelia, Zaagmolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300264626";;"http://verdwenengebouwen.nl/gebouw/1016"
-"132";"Cornelis Krusemanschool";"0";"0";"0";"0";;"363100012102419";
-"1584";"Coster Diamonds";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5322"
-"182";"D'Witte Lelie";"0";"0";"0";"0";;"363100012176674";
-"1503";"De Arbeiderspers";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006247";;"http://verdwenengebouwen.nl/gebouw/3733"
-"87";"De Balie";"0";"0";"0";"0";;"363100012168684";
-"1";"De Bijenkorf";"0";"0";"0";"0";;"363100012168052";
-"1576";"De Bloem";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4646"
-"1558";"De Bul";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4142"
-"63";"De Burcht";"0";"0";"0";"0";;"363100012170603";
-"44";"De Drie Gekroonde Haringen";"0";"0";"0";"0";;"363100012171272";
-"172";"De Drie Haringen";"0";"0";"0";"0";;"363100012171272";
-"1290";"De Eendracht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006956";;"http://verdwenengebouwen.nl/gebouw/195"
-"1561";"De Hoop";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4148"
-"1526";"De Koorndrager";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/3755"
-"1302";"De Liefde";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/205"
-"146";"De Nieuwe Oosterbegraafplaats";"0";"0";"0";"0";;"363100012160996";
-"1433";"De Ontmoeting";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1264"
-"1481";"De Ontmoeting";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1307"
-"1555";"De Opgang";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/4008"
-"1575";"De Oranjeboom";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4578"
-"40";"De Otter";"0";"0";"0";"0";;"363100012158370";
-"26";"De Otter (Houtzaagmolen)";"0";"0";"0";"0";;"363100012158370";
-"265";"De Otter (molen)";"0";"0";"0";"0";;"363100012158370";
-"157";"De Palmboom";"0";"0";"0";"0";;"363100012171180";
-"1462";"De Pool";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1293"
-"1488";"De Pool";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1311"
-"1461";"De r.k. kerk van de H. Anna";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1293"
-"1504";"De Rode Burcht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006247";;"http://verdwenengebouwen.nl/gebouw/3733"
-"7";"De Rode Hoed";"0";"0";"0";"0";;"363100012167695";
-"1573";"De Samson / De Bruinvis / De Simson";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4576"
-"1445";"De Sayer";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1278"
-"1569";"De Spiering/ Spring in 't Veld";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4572"
-"1466";"De Star";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1297"
-"1473";"De Star";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1302"
-"1467";"De Ster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1297"
-"1474";"De Ster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1302"
-"270";"De Transvaalsche Boer";"0";"0";"0";"0";;"363100012177361";
-"1505";"De Twentsche Bank";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005213";;"http://verdwenengebouwen.nl/gebouw/3734"
-"1554";"De Uitweg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3993"
-"1457";"De Uitweg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1288"
-"1478";"De Uitweg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1304"
-"1568";"De Victor";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4571"
-"1570";"De Wetering";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4573"
-"1484";"De Wielingen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006769";;"http://verdwenengebouwen.nl/gebouw/1308"
-"279";"de Wittenberg";"0";"0";"0";"0";;"363100012164939";
-"1446";"De Zaaier";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1278"
-"1279";"Dennenrode";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005707";;"http://verdwenengebouwen.nl/gebouw/173"
-"1347";"Derde Regulierspoort";"0";"0";"0";"0";"http://browser.aat-ned.nl/300312276";;"http://verdwenengebouwen.nl/gebouw/234"
-"214";"Deutzhuis";"0";"0";"0";"0";;"363100012179338";
-"198";"Diaconie Oude Vrouwen en Mannenhuis";"0";"0";"0";"0";;"363100012165553";
-"243";"Diaconie Oude Vrouwen Huys";"0";"0";"0";"0";;"363100012165553";
-"199";"Diaconie Oude Vrouwen- en Mannenhuis der Nederlands Hervormde Gemeente";"0";"0";"0";"0";;"363100012165553";
-"193";"Diaconie Oude Vrouwenhuis";"0";"0";"0";"0";;"363100012165553";
-"209";"Diaconie oudemannen en -vrouwenhuis";"0";"0";"0";"0";;"363100012165553";
-"1482";"Diaconieweeshuis der Nederlands Hervormde gemeente";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006769";;"http://verdwenengebouwen.nl/gebouw/1308"
-"158";"diamantbewerkersbond";"0";"0";"0";"0";;"363100012170603";
-"202";"Dierentuin Natura Artis Magistra";"0";"0";"0";"0";;"363100012170549";
-"1560";"Dikke Molen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4144"
-"1397";"Dolhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006672";;"http://verdwenengebouwen.nl/gebouw/1018"
-"1396";"Dolhuys";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006672";;"http://verdwenengebouwen.nl/gebouw/1018"
-"34";"Dr. Sarphatihuis";"0";"0";"0";"0";;"363100012164938";
-"251";"drogist";"0";"0";"0";"0";;"363100012176146";
-"1614";"Drukkerij Farbianca";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006247";;"http://verdwenengebouwen.nl/gebouw/5572"
-"234";"d`Admiraal (molen)";"0";"0";"0";"0";;"363100012161029";
-"1392";"Eendracht, gebouw de";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005567";;"http://verdwenengebouwen.nl/gebouw/1007"
-"1566";"Eenhoorn";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4362"
-"1495";"Eerste Nederduytsche Academie";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/5301"
-"74";"Eerste Openbare Handelsschool";"0";"0";"0";"0";;"363100012165430";
-"9";"Effectenbeurs";"0";"0";"0";"0";;"363100012165051";
-"1640";"Egyptisch restaurant De Piramiden";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5707"
-"1435";"Eilandskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1266"
-"168";"Elisabeth Otter Knol Stichting";"0";"0";"0";"0";;"363100012236913";
-"1449";"Elthetokerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1280"
-"1398";"Emma Kinderziekenhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3771"
-"281";"Emmakerk";"0";"0";"0";"0";;"363100012098251";
-"70";"Engelse Hervormde Kerk";"0";"0";"0";"0";;"363100012168141";
-"185";"Engelse presbyteriaanse kerk";"0";"0";"0";"0";;"363100012168141";
-"1645";"Entreegebouwtje Olympisch Stadion";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005621";;"http://verdwenengebouwen.nl/gebouw/5739"
-"223";"Episcopal Church";"0";"0";"0";"0";;"363100012171165";
-"205";"Evangelisch Luthers Diaconiehof";"0";"0";"0";"0";;"363100012236718";
-"1588";"Feestzalenverhuur Huize Sandman";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5332"
-"1585";"Flessen en Kruiken P.A.G. Nieland";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/5326"
-"1583";"Flikkercafé Sissy";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/5561"
-"1378";"Ford Automobielfabriek NV.";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/988"
-"1328";"Fort van Sjako";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/222"
-"1646";"Fortis Bank";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005214";;"http://verdwenengebouwen.nl/gebouw/5745"
-"1509";"Franciscus van Assisi";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3737"
-"1470";"Franciscus Xaverius";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1298"
-"292";"Frans Hendriksz. Oetgensburg";"0";"0";"0";"0";;"363100012182459";
-"1491";"Funenkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1314"
-"269";"galerij";"0";"0";"0";"0";;"363100012177548";
-"164";"gasthuispoort";"0";"0";"0";"0";;"363100012180196";
-"27";"GEB Bedrijfsmuseum";"0";"0";"0";"0";;"363100012119705";
-"174";"Gebouw de Wittenberg";"0";"0";"0";"0";;"363100012164939";
-"167";"Gebouw voor den Koffiehandel";"0";"0";"0";"0";;"363100012177527";
-"1644";"Gebroeders Winter Papier";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5718"
-"1308";"Geloof";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/211"
-"73";"Gemaal Akersluis";"0";"0";"0";"0";;"363100012079396";
-"216";"Gemaal Zeeburg";"0";"0";"0";"0";;"363100012076661";
-"257";"Gemeenschapsmolen";"0";"0";"0";"0";;"363100012109735";
-"165";"gemeentegirobus";"0";"0";"0";"0";;"363100012075951";
-"1607";"Gemeentelijk bad en waschhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007347";;"http://verdwenengebouwen.nl/gebouw/5477"
-"1523";"Gemeentelijke Geneeskundige en Gezondheidsdienst";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006665";;"http://verdwenengebouwen.nl/gebouw/3753"
-"18";"Gerardus Majellakerk";"0";"0";"0";"0";;"363100012097962";
-"197";"Gerechtsgebouw";"0";"0";"0";"0";;"363100012153698";
-"1455";"Gereformeerde Kerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1286"
-"1471";"Gereformeerde Kerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1299"
-"1448";"Gereformeerde Nieuwe Kerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1279"
-"1439";"Gereja Kristen Indonesia";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1271"
-"1410";"Gesticht St. Jacob";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005674";;"http://verdwenengebouwen.nl/gebouw/1074"
-"59";"gevelsteen";"0";"0";"0";"0";;"363100012179584";
-"175";"gevelsteen de Otter";"0";"0";"0";"0";;"363100012165081";
-"293";"gevelsteen de ram";"0";"0";"0";"0";;"363100012168145";
-"250";"gevelsteen halve maan";"0";"0";"0";"0";;"363100012171579";
-"155";"gevelsteen leggen van eerste steen";"0";"0";"0";"0";;"363100012166469";
-"249";"gevelsteen met de keizerskroon";"0";"0";"0";"0";;"363100012171579";
-"252";"gevelsteen met jaartal";"0";"0";"0";"0";;"363100012169937";
-"25";"Gildewapen";"0";"0";"0";"0";;"363100012171850";
-"37";"Goethe Instituut";"0";"0";"0";"0";;"363100012176761";
-"1630";"Graanhandel H. Snel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5683"
-"215";"Grafmonument van Gerardus Frederik Westerman";"0";"0";"0";"0";;"363100012160996";
-"1513";"Groot Banda";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005517";;"http://verdwenengebouwen.nl/gebouw/3740"
-"1563";"Groot Duivendrechtschepolder";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4153"
-"1515";"Grote Wetering";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/3741"
-"1556";"H. Christus Geboorte";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/4012"
-"1553";"H. Pius X";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3975"
-"1365";"Haarlemmerpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/832"
-"1366";"Haarlemmerpoortstation";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/836"
-"41";"Hallen van Stork";"0";"0";"0";"0";;"363100012164933";
-"117";"Hamer- en Bouwershof";"0";"0";"0";"0";;"363100012168505";
-"1615";"Handel in ijzerwaren";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5574"
-"1296";"Haringpakkerstoren";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/199"
-"126";"Havencentrale Oost";"0";"0";"0";"0";;"363100012078164";
-"1281";"Heilige Stede";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/184"
-"1295";"Heilige-Kruistoren";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/199"
-"1344";"Heiligewegspoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/231"
-"1287";"Hembrug";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007836";;"http://verdwenengebouwen.nl/gebouw/191"
-"121";"Hendrick Jacobsz. Staetsbrug";"0";"0";"0";"0";;"363100012165493";
-"1521";"Henriettehofje";"0";"0";"0";"0";"http://browser.aat-ned.nl/900032008";;"http://verdwenengebouwen.nl/gebouw/3751"
-"122";"Hervormde Kerk Durgerdam";"0";"0";"0";"0";;"363100012155393";
-"32";"Het Houten Huys";"0";"0";"0";"0";;"363100012175498";
-"1345";"Het Houten Stadion";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007271";;"http://verdwenengebouwen.nl/gebouw/232"
-"161";"het huis aan de 3 grachten";"0";"0";"0";"0";;"363100012180205";
-"45";"Het Huis met de Hoofden";"0";"0";"0";"0";;"363100012177213";
-"1538";"Het Nederlandsch Sportpark";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007271";;"http://verdwenengebouwen.nl/gebouw/3779"
-"283";"Het Nieuwe Huis";"0";"0";"0";"0";;"363100012148010";
-"19";"Het Schip";"0";"0";"0";"0";;"363100012075951";
-"1475";"Het Spinnetje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1302"
-"1537";"Het Stadion";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007271";;"http://verdwenengebouwen.nl/gebouw/3779"
-"1642";"Het Swarte Paart";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5716"
-"246";"Het Vosje";"0";"0";"0";"0";;"363100012112106";
-"138";"Hirsch gebouw";"0";"0";"0";"0";;"363100012165488";
-"68";"Hofje de Star";"0";"0";"0";"0";;"363100012177254";
-"64";"Hofkerk";"0";"0";"0";"0";;"363100012123068";
-"1400";"Hollandsche Gazfabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000386";;"http://verdwenengebouwen.nl/gebouw/1027"
-"1399";"Hollandse Gasfabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000386";;"http://verdwenengebouwen.nl/gebouw/1027"
-"288";"Hoofdkantoor GVB";"0";"0";"0";"0";;"363100012149855";
-"125";"Hoogduits Synagogecomplex";"0";"0";"0";"0";;"363100012182038";
-"1280";"Hoogduitse Schouwburg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/176"
-"1309";"Hoop en Liefde";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/211"
-"210";"Hotel American";"0";"0";"0";"0";;"363100012168734";
-"1636";"Hotel De Bijenkorf";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007166";;"http://verdwenengebouwen.nl/gebouw/5700"
-"1643";"Hotel De Gouden Kroon";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5718"
-"47";"Hotel Krasnapolsky";"0";"0";"0";"0";;"363100012165293";
-"1507";"Hotel Polen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007166";;"http://verdwenengebouwen.nl/gebouw/3736"
-"17";"Houten Huis";"0";"0";"0";"0";;"363100012175498";
-"170";"Hugo de Vries Laboratorium";"0";"0";"0";"0";;"363100012182570";
-"1535";"Huidenkopers-Gildehuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007049";;"http://verdwenengebouwen.nl/gebouw/3769"
-"1637";"Huis aan de Bonte Kraaiengang";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5703"
-"8";"Huis de Neufville";"0";"0";"0";"0";;"363100012167962";
-"13";"Huis De Pinto";"0";"0";"0";"0";;"363100012183056";
-"14";"Huis de Vicq";"0";"0";"0";"0";;"363100012167903";
-"248";"Huis Frankendael";"0";"0";"0";"0";;"363100012162192";
-"295";"Huis Goudstikker";"0";"0";"0";"0";;"363100012176236";
-"53";"Huis Joan Poppen";"0";"0";"0";"0";;"363100012169339";
-"176";"Huis Poppen";"0";"0";"0";"0";;"363100012169339";
-"256";"Huis Sweedenrijck";"0";"0";"0";"0";;"363100012176171";
-"24";"Huis van Brienen";"0";"0";"0";"0";;"363100012176740";
-"151";"Huis van Loon";"0";"0";"0";"0";;"363100012179302";
-"253";"Huisje van Gosler";"0";"0";"0";"0";;"363100012182908";
-"123";"Huize Frankedael";"0";"0";"0";"0";;"363100012162192";
-"33";"Huize Van Brienen";"0";"0";"0";"0";;"363100012176740";
-"75";"Huize Van Loon";"0";"0";"0";"0";;"363100012179302";
-"1533";"Huydekoopers";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007049";;"http://verdwenengebouwen.nl/gebouw/3769"
-"1447";"Ignatius";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1278"
-"1518";"IJsclubgebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007250";;"http://verdwenengebouwen.nl/gebouw/3742"
-"1437";"Immanuël";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1269"
-"1641";"Indian restaurant The Rani";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5707"
-"1539";"Instituut voor Physische Therapie";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006665";;"http://verdwenengebouwen.nl/gebouw/3786"
-"101";"Jacob Obrechtkerk";"0";"0";"0";"0";;"363100012124153";
-"207";"Jacob Obrechtplein-synagoge";"0";"0";"0";"0";;"363100012074574";
-"1489";"Jacobuskapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1312"
-"1294";"Jan Roodenpoortstoren";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/198"
-"66";"Jeruzalemkerk";"0";"0";"0";"0";;"363100012120412";
-"1610";"Joachimsthal’s Boekhandel, Uitgevers- en Drukkerijbedrijf NV";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006247";;"http://verdwenengebouwen.nl/gebouw/5529"
-"1619";"Joden Houttuinen 25A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5610"
-"1609";"Joden Houttuinen 42A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5498"
-"1621";"Joden Houttuinen 49A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5621"
-"1622";"Joden Houttuinen 49B";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5622"
-"1623";"Joden Houttuinen 49C";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5623"
-"1618";"Joden Houttuinen 5-5A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5599"
-"1624";"Joden Houttuinen 51A-51B";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5625"
-"1625";"Joden Houttuinen 57A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5628"
-"1626";"Joden Houttuinen 57B";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5629"
-"1627";"Joden Houttuinen 57C";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5630"
-"1628";"Johan Breukels Drukkerij";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5681"
-"1486";"Johannes de Doper";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1310"
-"178";"Kantoorboekhandel Albracht-Siegers";"0";"0";"0";"0";;"363100012175309";
-"261";"Kapel van Durgerdam";"0";"0";"0";"0";;"363100012164807";
-"228";"Kas-Associatie N.V";"0";"0";"0";"0";;"363100012175847";
-"118";"Kattenkabinet";"0";"0";"0";"0";;"363100012176760";
-"236";"Kerk";"0";"0";"0";"0";;"363100012162810";
-"230";"Kerk de Krijtberg";"0";"0";"0";"0";;"363100012185920";
-"162";"kinderkliniek binnengasthuis";"0";"0";"0";"0";;"363100012180195";
-"1532";"Kiosk Weesperplein";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004826";;"http://verdwenengebouwen.nl/gebouw/3759"
-"183";"Klein Kalfje";"0";"0";"0";"0";;"363100012160652";
-"1520";"KLM passagegebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007805";;"http://verdwenengebouwen.nl/gebouw/3750"
-"1314";"Kloveniersdoelen";"0";"0";"0";"0";"http://browser.aat-ned.nl/900027122";;"http://verdwenengebouwen.nl/gebouw/215"
-"1452";"Koepelkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1283"
-"1603";"Koffiehuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5474"
-"1593";"Koffiehuis 't Haantje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5424"
-"127";"Koffiepellerij Insulinde";"0";"0";"0";"0";;"363100012143002";
-"179";"Koningssluis";"0";"0";"0";"0";;"363100012177446";
-"1401";"Koninklijke Waskaarsenfabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/1033"
-"82";"Koopermolen";"0";"0";"0";"0";;"363100012178048";
-"1354";"Koopmansbeurs";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005222";;"http://verdwenengebouwen.nl/gebouw/239"
-"102";"korbeel";"0";"0";"0";"0";;"363100012107079";
-"1342";"Korenbeurs";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005222";;"http://verdwenengebouwen.nl/gebouw/229"
-"195";"Korenmeestershuisje";"0";"0";"0";"0";;"363100012179970";
-"1374";"Korsjespoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/907"
-"1373";"Korskenspoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/907"
-"1402";"Kruidhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006920";;"http://verdwenengebouwen.nl/gebouw/1034"
-"1405";"Kruijt Magazijn int Loopveld";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006920";;"http://verdwenengebouwen.nl/gebouw/1034"
-"1403";"Kruitmagazijn";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006920";;"http://verdwenengebouwen.nl/gebouw/1034"
-"1404";"Kruittoren";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006920";;"http://verdwenengebouwen.nl/gebouw/1034"
-"160";"krul";"0";"0";"0";"0";;"363100012175889";
-"291";"Kunstnijverheidsschool";"0";"0";"0";"0";;"363100012142717";
-"297";"L.H. Sarlouisbrug (240)";"0";"0";"0";"0";;"363100012169740";
-"1591";"Lange Houtstraat 24A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5399"
-"1616";"Lange Houtstraat 24B";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5582"
-"1617";"Lange Houtstraat 24C";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5583"
-"1358";"Lazarushuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/242"
-"1283";"Leidsepoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/185"
-"1359";"Leprozenhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/242"
-"1546";"LinMij";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005153";;"http://verdwenengebouwen.nl/gebouw/3794"
-"1496";"Logement Het Rondeel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007170";;"http://verdwenengebouwen.nl/gebouw/5300"
-"1598";"Lompen en Metalen F. Stubbe & Zoon";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5447"
-"1534";"Looijers en Schoenmakers Comtoir";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007049";;"http://verdwenengebouwen.nl/gebouw/3769"
-"1453";"Lucas";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1284"
-"1567";"Luipaard";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4363"
-"114";"Lutherhof";"0";"0";"0";"0";;"363100012236718";
-"1454";"Lutherhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1285"
-"259";"luthers diaconessen inrichting";"0";"0";"0";"0";;"363100012236925";
-"298";"Luthers Diaconiehuis";"0";"0";"0";"0";;"363100012165762";
-"109";"Luthers verpleegtehuis";"0";"0";"0";"0";;"363100012164939";
-"119";"Magna Plaza";"0";"0";"0";"0";;"363100012167578";
-"1578";"Maranathakerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/4902"
-"206";"Maranathakerk";"0";"0";"0";"0";;"363100012110684";
-"1472";"Maria Magdalena";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1300"
-"99";"Maria Magdalenakerk";"0";"0";"0";"0";;"363100012236080";
-"21";"marine etablissement";"0";"0";"0";"0";;"363100012165822";
-"1529";"Marinepaleis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006887";;"http://verdwenengebouwen.nl/gebouw/3756"
-"89";"Mariniersbrug";"0";"0";"0";"0";;"363100012181492";
-"139";"marmottenhuis";"0";"0";"0";"0";;"363100012236421";
-"187";"Martelaren van Gorcumkerk";"0";"0";"0";"0";;"363100012123068";
-"1335";"Maupoleum";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007043";;"http://verdwenengebouwen.nl/gebouw/226"
-"1303";"Meerhuizen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006891";;"http://verdwenengebouwen.nl/gebouw/206"
-"212";"Melkfabriek Sterovita";"0";"0";"0";"0";;"363100012236879";
-"1631";"Melkinrichting";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5684"
-"1632";"Melkinrichting De Toekomst";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5687"
-"1582";"Metaalwarenfabriek Heijmeta";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/5560"
-"189";"Metz & Co";"0";"0";"0";"0";;"363100012176395";
-"274";"mirakelkolommen";"0";"0";"0";"0";;"363100012171431";
-"143";"Molen 'De Korenbloem'";"0";"0";"0";"0";;"363100012165350";
-"1564";"Molen 2 van de Buikslotermeer";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4157"
-"31";"Molen de Otter";"0";"0";"0";"0";;"363100012158370";
-"1494";"Muiderkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/3322"
-"142";"Muiderpoortstation";"0";"0";"0";"0";;"363100012139571";
-"219";"Museum Amstelkring, Ons Lieve Heer op Solder";"0";"0";"0";"0";;"363100012178021";
-"239";"Museum Energetica";"0";"0";"0";"0";;"363100012165818";
-"77";"Museum Het Schip";"0";"0";"0";"0";;"363100012075951";
-"81";"museum Willet Holthuysen";"0";"0";"0";"0";;"363100012171562";
-"1638";"Musico nommé le Pyl";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007218";;"http://verdwenengebouwen.nl/gebouw/5706"
-"1639";"Muziek- en speelhuis De Pijl";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007218";;"http://verdwenengebouwen.nl/gebouw/5706"
-"51";"N.H. kerk";"0";"0";"0";"0";;"363100012162454";
-"58";"N.H. kerk Zunderdorp";"0";"0";"0";"0";;"363100012161733";
-"226";"N.H. Petruskerk";"0";"0";"0";"0";;"363100012163298";
-"56";"N.H. Sloterkerk";"0";"0";"0";"0";;"363100012137946";
-"1545";"N.V. Amsterdamsche Poetsdoekenfabriek en Linnenverhuurmaatschapij Nederland";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005153";;"http://verdwenengebouwen.nl/gebouw/3794"
-"1291";"Naatje van de Dam";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006956";;"http://verdwenengebouwen.nl/gebouw/195"
-"65";"Nassaukerk";"0";"0";"0";"0";;"363100012237328";
-"71";"Nederlands Hervormde Kerk";"0";"0";"0";"0";;"363100012144206";
-"267";"Nederlands Hervormde Sloterkerk";"0";"0";"0";"0";;"363100012137946";
-"130";"Nederlands-Indische Handelsbank";"0";"0";"0";"0";;"363100012167627";
-"1587";"Nederlandsch Israëlitisch Jongens Weeshuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006769";;"http://verdwenengebouwen.nl/gebouw/5328"
-"1351";"Nederlandsch Panopticum";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/238"
-"67";"Nederlandsch-Indische Handelsbank";"0";"0";"0";"0";;"363100012167627";
-"1301";"Nicolaas en Barbara";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/205"
-"1384";"Nicolaas Maesschool";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006495";;"http://verdwenengebouwen.nl/gebouw/999"
-"268";"Nieuw-Apostolische Kerk";"0";"0";"0";"0";;"363100012108972";
-"1544";"Nieuwe Buitengasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3792"
-"5";"Nieuwe Oosterbegraafplaats";"0";"0";"0";"0";;"363100012160996";
-"1348";"Nieuwe Regulierspoort";"0";"0";"0";"0";"http://browser.aat-ned.nl/300312276";;"http://verdwenengebouwen.nl/gebouw/234"
-"1292";"Nieuwe Schouwburg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/196"
-"1377";"Nieuwe stadsherberg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007170";;"http://verdwenengebouwen.nl/gebouw/987"
-"15";"Nieuwe Suykerhofje";"0";"0";"0";"0";;"363100012174885";
-"38";"Nieuwe Synagoge";"0";"0";"0";"0";;"363100012182037";
-"11";"Nieuwe Waalse Kerk";"0";"0";"0";"0";;"363100012179330";
-"72";"Nieuwe Walenkerk";"0";"0";"0";"0";;"363100012179330";
-"1282";"Nieuwezijds Kapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/184"
-"186";"NMB Bank";"0";"0";"0";"0";;"363100012079990";
-"1343";"Noodziekenhuis Zeeburg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/230"
-"262";"Obrechthuys";"0";"0";"0";"0";;"363100012163687";
-"136";"oeil-de boeuf";"0";"0";"0";"0";;"363100012180283";
-"1514";"Onderlinge Vereeniging van Veehouders tot Verkoop van Zuivere Koemelk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/3741"
-"163";"Ons'Lieve Heer op Solder";"0";"0";"0";"0";;"363100012178021";
-"95";"Ons’ Lieve Heer op Solder";"0";"0";"0";"0";;"363100012178021";
-"227";"Onze-Lieve-Vrouwe kerk";"0";"0";"0";"0";;"363100012169365";
-"76";"Oostergasfabriek";"0";"0";"0";"0";;"363100012236879";
-"282";"Openbare Bibliotheek";"0";"0";"0";"0";;"363100012102751";
-"231";"opslagplaats";"0";"0";"0";"0";;"363100012165822";
-"1572";"Oranjeboom";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4575"
-"1341";"Oude Brug";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007836";;"http://verdwenengebouwen.nl/gebouw/228"
-"1339";"Oude Buitengasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/227"
-"1361";"Oude Doelen";"0";"0";"0";"0";"http://browser.aat-ned.nl/900027122";;"http://verdwenengebouwen.nl/gebouw/245"
-"1362";"Oude Stadhuis van Amsterdam";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300122210";;"http://verdwenengebouwen.nl/gebouw/246"
-"1340";"Oudebrug";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007836";;"http://verdwenengebouwen.nl/gebouw/228"
-"20";"Oudemanhuispoort";"0";"0";"0";"0";;"363100012171179";
-"1459";"Overtoomkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1291"
-"140";"P.C. Hoofthuis";"0";"0";"0";"0";;"363100012165429";
-"1325";"P.T.T. gebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006036";;"http://verdwenengebouwen.nl/gebouw/220"
-"1329";"Paalhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007049";;"http://verdwenengebouwen.nl/gebouw/223"
-"107";"Paedologisch instituut";"0";"0";"0";"0";;"363100012067476";
-"1527";"Pakhuis de Korendrager";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/3755"
-"1528";"Paleis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006887";;"http://verdwenengebouwen.nl/gebouw/3756"
-"1278";"Paleis voor Volksvlijt";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005748";;"http://verdwenengebouwen.nl/gebouw/1"
-"1352";"Panopticumgebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/238"
-"1530";"Panoramagebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005748";;"http://verdwenengebouwen.nl/gebouw/3757"
-"1531";"Panoramagebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005748";;"http://verdwenengebouwen.nl/gebouw/3758"
-"35";"Paradiso";"0";"0";"0";"0";;"363100012169473";
-"30";"Parkkerk";"0";"0";"0";"0";;"363100012082170";
-"1360";"Parkschouwburg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/244"
-"1376";"Passage Bioscoop";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007135";;"http://verdwenengebouwen.nl/gebouw/984"
-"1332";"Paulusbroederklooster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000641";;"http://verdwenengebouwen.nl/gebouw/225"
-"1412";"Pauwentuin";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007170";;"http://verdwenengebouwen.nl/gebouw/5302"
-"94";"Paviljoen Het Tolhuis";"0";"0";"0";"0";;"363100012066897";
-"1552";"Perry's reuzenkoffer";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006795";;"http://verdwenengebouwen.nl/gebouw/3830"
-"1338";"Pest Huys";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/227"
-"1543";"Pesthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/3792"
-"1337";"Pesthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/227"
-"149";"Pieter Goemansbrug";"0";"0";"0";"0";;"363100012165427";
-"1406";"Pietersgasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/1069"
-"1408";"Pieterspoort, St.";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005621";;"http://verdwenengebouwen.nl/gebouw/1070"
-"191";"pilaar";"0";"0";"0";"0";;"363100012167502";
-"1479";"Pinksterkapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1305"
-"1443";"Pius X";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1275"
-"1460";"Plantagekerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1292"
-"1605";"Politiebureau Houtmarkt";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006049";;"http://verdwenengebouwen.nl/gebouw/5553"
-"52";"politieburo warmoesstraat";"0";"0";"0";"0";;"363100012165091";
-"280";"Pontanusschool";"0";"0";"0";"0";;"363100012098330";
-"241";"Post CS gebouw";"0";"0";"0";"0";;"363100012164965";
-"1326";"Post CS-gebouw";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006036";;"http://verdwenengebouwen.nl/gebouw/220"
-"1463";"Prinsengrachtkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1294"
-"49";"Prinsenhof";"0";"0";"0";"0";;"363100012186196";
-"60";"Prinses Julianaschool";"0";"0";"0";"0";;"363100012085614";
-"61";"Prinsessekerk";"0";"0";"0";"0";;"363100012071137";
-"1480";"Prinsessekerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1306"
-"57";"Purmerschool";"0";"0";"0";"0";;"363100012113661";
-"247";"R.C. Armenkantoor";"0";"0";"0";"0";;"363100012174123";
-"296";"R.C. Maagdenhuis";"0";"0";"0";"0";;"363100012167925";
-"78";"R.K. Armenkantoor";"0";"0";"0";"0";;"363100012174123";
-"284";"R.K. kerk Sint Agnes";"0";"0";"0";"0";;"363100012166358";
-"36";"R.K. Onze Lieve Vrouwe Kerk";"0";"0";"0";"0";;"363100012169365";
-"90";"R.K. Sint Pancratiuskerk";"0";"0";"0";"0";;"363100012165936";
-"1441";"Raamkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1273"
-"1380";"Raampoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/995"
-"166";"Raphaëlpleinkerk";"0";"0";"0";"0";;"363100012121480";
-"1382";"Rasphuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006460";;"http://verdwenengebouwen.nl/gebouw/996"
-"86";"Raw Aron Schuster Sjoel";"0";"0";"0";"0";;"363100012074574";
-"272";"Raw Aron Synagoge (Obrechtsjoel)";"0";"0";"0";"0";;"363100012074574";
-"201";"Rechtbank";"0";"0";"0";"0";;"363100012153698";
-"42";"Rechtbank Amsterdam";"0";"0";"0";"0";;"363100012153698";
-"1369";"Regulierspoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/887"
-"1490";"Rehobothkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1313"
-"1608";"Rembrandt Bioscope";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007135";;"http://verdwenengebouwen.nl/gebouw/5497"
-"1536";"Rembrandt Theater";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/3770"
-"1551";"Reuzen-olifant";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006795";;"http://verdwenengebouwen.nl/gebouw/3829"
-"1409";"Riekermolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/1073"
-"105";"Rijksacademie voor Beeldende Kunsten";"0";"0";"0";"0";;"363100012119240";
-"184";"Rijksmuseum Vincent van Gogh";"0";"0";"0";"0";;"363100012098679";
-"1383";"Roemer Visscherschool";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006495";;"http://verdwenengebouwen.nl/gebouw/999"
-"1313";"Rondeel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006888";;"http://verdwenengebouwen.nl/gebouw/214"
-"1477";"Rooms-Katholieke Kerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1303"
-"152";"Sarphatihuis";"0";"0";"0";"0";;"363100012164938";
-"258";"Scheepswerf Bierenbroodspot";"0";"0";"0";"0";;"363100012176991";
-"85";"Scheepswerf ‘t Kromhout";"0";"0";"0";"0";;"363100012170270";
-"1612";"Schouwburg van Van Campen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/5563"
-"1371";"Schurfthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006460";;"http://verdwenengebouwen.nl/gebouw/906"
-"229";"Singelkerk";"0";"0";"0";"0";;"363100012171741";
-"244";"Sint Aloysiusschool";"0";"0";"0";"0";;"363100012168899";
-"1468";"Sint Augustinus";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1297"
-"1330";"Sint Jorisgasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007417";;"http://verdwenengebouwen.nl/gebouw/224"
-"1331";"Sint Jorishof";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007417";;"http://verdwenengebouwen.nl/gebouw/224"
-"4";"Sint Nicolaaskerk";"0";"0";"0";"0";;"363100012165691";
-"3";"Sint Olofskapel";"0";"0";"0";"0";;"363100012178065";
-"1286";"Sint Olofspoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/190"
-"97";"Sint Pietershal";"0";"0";"0";"0";;"363100012167473";
-"233";"Sint Ritakerk en Rosa Klooster";"0";"0";"0";"0";;"363100012132809";
-"88";"Sint Rosaklooster";"0";"0";"0";"0";;"363100012118331";
-"1307";"Sint-Annakerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/210"
-"1487";"Sint-Annakerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1311"
-"1311";"Sint-Bonifatiuskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/212"
-"1310";"Sint-Catharinakerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/211"
-"144";"Sint-Pancratiuskerk";"0";"0";"0";"0";;"363100012165936";
-"1333";"Sint-Paulusbroederklooster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000641";;"http://verdwenengebouwen.nl/gebouw/225"
-"150";"Sint-Ritakerk";"0";"0";"0";"0";;"363100012132809";
-"1601";"Slagerij De Hoek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5462"
-"1413";"Slijpmolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/1078"
-"98";"Sloterkerk";"0";"0";"0";"0";;"363100012137946";
-"1458";"Sloterkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1289"
-"1549";"Sloterparkbad";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007376";;"http://verdwenengebouwen.nl/gebouw/3810"
-"1429";"Slotervaart";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1260"
-"46";"Sociale Verzekeringsbank";"0";"0";"0";"0";;"363100012120606";
-"112";"Sociëteit Arti et Amicitiae";"0";"0";"0";"0";;"363100012165109";
-"29";"Sonnenberg";"0";"0";"0";"0";;"363100012176590";
-"1385";"Spinhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000641";;"http://verdwenengebouwen.nl/gebouw/1001"
-"173";"Spinhuis";"0";"0";"0";"0";;"363100012178653";
-"211";"Sportfondsenbad Oost";"0";"0";"0";"0";;"363100012236879";
-"1595";"Springer's Metaalhandel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5430"
-"232";"St Nicolaaskerk";"0";"0";"0";"0";;"363100012165691";
-"1407";"St. Pietersgasthuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/1069"
-"1386";"St. Ursulaklooster";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300000641";;"http://verdwenengebouwen.nl/gebouw/1001"
-"1456";"St.Geertruid";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1287"
-"1284";"Stadion De Meer";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007271";;"http://verdwenengebouwen.nl/gebouw/186"
-"224";"Stadsdoelen";"0";"0";"0";"0";;"363100012169338";
-"12";"Stadsschouwbug";"0";"0";"0";"0";;"363100012168738";
-"1414";"Stamper";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/1078"
-"204";"Staringhofje";"0";"0";"0";"0";;"363100012236718";
-"1285";"Station Amsterdam De Vlugtlaan";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/189"
-"1297";"Station Amsterdam Koenenkade";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/200"
-"1312";"Station Amsterdam Oosterdok";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/213"
-"1300";"Station Amsterdam Petroleumhaven";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/203"
-"1289";"Station Amsterdam Weesperpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/193"
-"1298";"Station Amsterdam Westerdok";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/201"
-"1299";"Station Amsterdam Zaanstraat";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/202"
-"1541";"Station Sloterdijk Zuid";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/3791"
-"1367";"Station Willemspoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/836"
-"1324";"Stationspostkantoor";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006036";;"http://verdwenengebouwen.nl/gebouw/220"
-"208";"Stichting Werf `t Kromhout";"0";"0";"0";"0";;"363100012170270";
-"1602";"Stiefbeen en Zoon";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5473"
-"108";"Stoofbrug";"0";"0";"0";"0";;"363100012171790";
-"1305";"Stopplaats Sint Anthoniedijk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/208"
-"1304";"Stopplaats Spaarndammerdijk-Houthaven";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007783";;"http://verdwenengebouwen.nl/gebouw/207"
-"1599";"Stroomarktsjoel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5457"
-"1579";"Suikerfabriek Bolwerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/5306"
-"1416";"Suikerfabriek De Granaatappel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/1086"
-"1415";"Suikerfabriek Rupe & Zoon";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006232";;"http://verdwenengebouwen.nl/gebouw/1085"
-"200";"Surp Hoki";"0";"0";"0";"0";;"363100012182791";
-"1317";"Svygh Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"16";"Swigtershofje";"0";"0";"0";"0";;"363100012171132";
-"1318";"Swijgh Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"1322";"Swych Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"1316";"Swygh Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"1319";"Swyght Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"1592";"Synagoge Lange Houtstraat";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5406"
-"1597";"Synagoge Reisjies Touv";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5440"
-"1596";"Synagoge Waterlooplein";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007590";;"http://verdwenengebouwen.nl/gebouw/5430"
-"1586";"Tabakspakhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300265138";;"http://verdwenengebouwen.nl/gebouw/5327"
-"1635";"Tapperij De Zon";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007166";;"http://verdwenengebouwen.nl/gebouw/5700"
-"147";"Telegraafgebouw";"0";"0";"0";"0";;"363100012167525";
-"115";"Theater De Balie";"0";"0";"0";"0";;"363100012168684";
-"1431";"Theresiakapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1262"
-"1465";"Thomas van Aquino";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1296"
-"1606";"Tip Top Theater";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007117";;"http://verdwenengebouwen.nl/gebouw/5476"
-"48";"Tolhuis";"0";"0";"0";"0";;"363100012066897";
-"93";"Toneelmuseum";"0";"0";"0";"0";;"363100012176410";
-"213";"top van de oudekerkstoren";"0";"0";"0";"0";;"363100012178469";
-"263";"tramremise van de AOM";"0";"0";"0";"0";;"363100012233440";
-"192";"trappenhuis";"0";"0";"0";"0";;"363100012176731";
-"1613";"Tuinstraat 115 A";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/5566"
-"1620";"Uilenburgersteeg ?";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5611"
-"222";"Uilenburgersynagoge";"0";"0";"0";"0";;"363100012181889";
-"1547";"Uitbreiding LinMij";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005153";;"http://verdwenengebouwen.nl/gebouw/3795"
-"131";"Universiteitstheater";"0";"0";"0";"0";;"363100012180412";
-"156";"urinoir";"0";"0";"0";"0";;"363100012240309";
-"1321";"Utrecht Swijgh";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
-"1346";"Utrechtsepoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/233"
-"124";"van Brienenhuis";"0";"0";"0";"0";;"363100012176740";
-"1600";"Van Gelder's Machinehandel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005283";;"http://verdwenengebouwen.nl/gebouw/5461"
-"1372";"Verbeterhuis bij de Weteringpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006460";;"http://verdwenengebouwen.nl/gebouw/906"
-"104";"Vergulde Eenhoorn";"0";"0";"0";"0";;"363100012164695";
-"106";"verzorgingstehuis de RietVinck";"0";"0";"0";"0";;"363100012165065";
-"120";"Vier Heemskinderen";"0";"0";"0";"0";;"363100012169508";
-"83";"Vierde Ambachtsschool";"0";"0";"0";"0";;"363100012154874";
-"289";"Villa Betty";"0";"0";"0";"0";;"363100012236109";
-"135";"Villa Cato";"0";"0";"0";"0";;"363100012236295";
-"169";"Villa Klatte";"0";"0";"0";"0";;"363100012094660";
-"84";"Villa Oud Leyerhoven";"0";"0";"0";"0";;"363100012159043";
-"294";"Villa Oud Leyerhoven II";"0";"0";"0";"0";;"363100012159043";
-"110";"Villa Quisisana";"0";"0";"0";"0";;"363100012236987";
-"96";"Villa Reens";"0";"0";"0";"0";;"363100012075424";
-"260";"villa Roelvink";"0";"0";"0";"0";;"363100012160188";
-"145";"Villa Rosa";"0";"0";"0";"0";;"363100012122723";
-"1525";"Vishal";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005243";;"http://verdwenengebouwen.nl/gebouw/3754"
-"1417";"Vispoortje";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/1092"
-"190";"VOC schip";"0";"0";"0";"0";;"363100012165822";
-"1323";"Voetboogdoelen";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/218"
-"1451";"Voorlopige St. Ritakerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1282"
-"177";"Vredenhofje";"0";"0";"0";"0";;"363100012171648";
-"1418";"Vredeskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1093"
-"1387";"Vrieshuis Amerika";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1003"
-"286";"Vrije Katholieke kerk";"0";"0";"0";"0";;"363100012069171";
-"1497";"Waag op de Dam";"0";"0";"0";"0";"http://browser.aat-ned.nl/300312276";;"http://verdwenengebouwen.nl/gebouw/3672"
-"1442";"Waalkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1274"
-"1485";"Waalkerk noodkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1309"
-"196";"Walenkerk";"0";"0";"0";"0";;"363100012171206";
-"1419";"Walenweeshuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1094"
-"1611";"Waterlooplein 61-61A";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/5546"
-"1577";"Waterpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/4784"
-"159";"watertoren";"0";"0";"0";"0";;"363100012160391";
-"1499";"Watertoren Amsterdam, Nieuwer-Amstel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006204";;"http://verdwenengebouwen.nl/gebouw/3688"
-"1501";"Watertoren Amsterdam, Sloten";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006204";;"http://verdwenengebouwen.nl/gebouw/3690"
-"1498";"Watertoren Amsterdam, Westergasfabriek";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006204";;"http://verdwenengebouwen.nl/gebouw/3687"
-"1500";"Watertoren Watergraafsmeer";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006204";;"http://verdwenengebouwen.nl/gebouw/3689"
-"1440";"Weerenkapel";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1272"
-"1483";"Weeshuis aan de Wielingenstraat";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006769";;"http://verdwenengebouwen.nl/gebouw/1308"
-"1288";"Weesperpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/192"
-"1516";"Wehrmachtsheim Erika";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007250";;"http://verdwenengebouwen.nl/gebouw/3742"
-"6";"werf Monumentenzorg";"0";"0";"0";"0";;"363100012181889";
-"245";"Werf Monumentnzorg";"0";"0";"0";"0";;"363100012090614";
-"1420";"Werkhuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1095"
-"240";"werkplaats";"0";"0";"0";"0";;"363100012165818";
-"141";"Werkspoormuseum";"0";"0";"0";"0";;"363100012170533";
-"1557";"West Bijlmer Watermolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4140"
-"1388";"West-Indischhuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1004"
-"2";"Westerkerk";"0";"0";"0";"0";;"363100012174221";
-"113";"Westerkerkstoren";"0";"0";"0";"0";;"363100012174221";
-"1350";"Weteringpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/236"
-"1306";"Wibauthuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/209"
-"1502";"Wielerbaan Zeeburg";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007271";;"http://verdwenengebouwen.nl/gebouw/3713"
-"1444";"Wijkhaven";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007391";;"http://verdwenengebouwen.nl/gebouw/1276"
-"1421";"Wijnkopersgildehuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1096"
-"180";"Wilde Wingerdschool";"0";"0";"0";"0";;"363100012088827";
-"1389";"Wilhelmina Gasthuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1005"
-"1422";"Wilhelmina ziekenhuis";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006676";;"http://verdwenengebouwen.nl/gebouw/1097"
-"79";"Willemspoort";"0";"0";"0";"0";;"363100012176980";
-"1430";"Willibrordus buiten de Veste";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1261"
-"1450";"Willibrordus buiten de Veste";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1281"
-"1423";"Willibrorduskerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/1098"
-"1562";"windmolen";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4150"
-"1511";"Winkelgalerij Vijzelstraat";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005433";;"http://verdwenengebouwen.nl/gebouw/3738"
-"1364";"Woestduinkerk";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300007466";;"http://verdwenengebouwen.nl/gebouw/248"
-"1571";"Wolf";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4574"
-"1574";"Wolf";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006273";;"http://verdwenengebouwen.nl/gebouw/4577"
-"1424";"Wolhuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1099"
-"1363";"Woonoord Atatürk";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/247"
-"271";"World Trade Center Amsterdam";"0";"0";"0";"0";;"363100012096613";
-"1506";"Wyers";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005147";;"http://verdwenengebouwen.nl/gebouw/3735"
-"1368";"Zaagmolenpoort";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300005080";;"http://verdwenengebouwen.nl/gebouw/838"
-"1425";"Zacharias Janseschool";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006495";;"http://verdwenengebouwen.nl/gebouw/1100"
-"188";"Zeemanshoop";"0";"0";"0";"0";;"363100012175382";
-"1427";"Zeemanshuis";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1102"
-"1315";"Zilverberg";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/216"
-"181";"Zonne-Wijzer";"0";"0";"0";"0";;"363100012134352";
-"153";"Zonnehuis";"0";"0";"0";"0";;"363100012092742";
-"1428";"Zuidergasfabriek";"0";"0";"0";"0";;;"http://verdwenengebouwen.nl/gebouw/1103"
-"148";"Zuiderschool";"0";"0";"0";"0";;"363100012075107";
-"1390";"Zusterschool van de Heilige Johannes";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300006495";;"http://verdwenengebouwen.nl/gebouw/1006"
-"1320";"Zwigt Utrecht";"0";"0";"0";"0";"http://vocab.getty.edu/aat/300004847";;"http://verdwenengebouwen.nl/gebouw/217"
+"id","name","name_start_min","name_start_max","name_end_min","name_end_max","building_type","bag_id","vg_id"
+"1508","'t Boompje","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3737"
+"1565","'t Haasje","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4158"
+"1559","1100 Roe","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4143"
+"1594","1ste Portugese Esnoga","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5430"
+"254","Accijnshuis","0","0","0","0",,"363100012176829",
+"225","Admiraliteitsgebouw","0","0","0","0",,"363100012180772",
+"217","Afbraak","0","0","0","0",,"363100012171031",
+"264","afrekeningsgebouw","0","0","0","0",,"363100012138844",
+"285","Akerstein","0","0","0","0",,"363100012161711",
+"39","Amstelrust","0","0","0","0",,"363100012157963",
+"220","Amstelstad","0","0","0","0",,"363100012168547",
+"28","Amsterdams Lyceum","0","0","0","0",,"363100012149878",
+"1522","Amsterdamsche Bank","0","0","0","0","http://vocab.getty.edu/aat/300005214",,"http://verdwenengebouwen.nl/gebouw/3752"
+"255","Amsterdamse Cavaleriekazerne","0","0","0","0",,"363100012165748",
+"1580","Amsterdamse Zeegrashandel","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/5313"
+"1548","Andreas ziekenhuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3809"
+"23","Andrieskerk","0","0","0","0",,"363100012120748",
+"1492","Anna Paviljoen","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3787"
+"116","Apollo House","0","0","0","0",,"363100012120606",
+"290","Apostolische kerk","0","0","0","0",,"363100012061997",
+"154","Aquariumgebouw","0","0","0","0",,"363100012170226",
+"1634","Arends & Co Kolen","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5697"
+"69","Armeens Apostolische Kerk","0","0","0","0",,"363100012182791",
+"137","art nouveau stijl","0","0","0","0",,"363100012156337",
+"10","Arti et Amicitiae","0","0","0","0",,"363100012165109",
+"22","Artis Bibliotheek","0","0","0","0",,"363100012164975",
+"194","Atheneum Illustre","0","0","0","0",,"363100012180211",
+"1432","Augustinus","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1263"
+"1426","Augustinuskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/5307"
+"1469","Augustinuskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1297"
+"1476","Augustinuskerk","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1302"
+"1590","Autokerkhof Jack Maandag","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5374"
+"1379","Automobielfabriek","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/988"
+"1434","Ayasofia","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1265"
+"171","Badhuis Vogeldorp","0","0","0","0",,"363100012067531",
+"1512","Banda Neira","0","0","0","0","http://vocab.getty.edu/aat/300005517",,"http://verdwenengebouwen.nl/gebouw/3739"
+"287","banpaal","0","0","0","0",,"363100012159957",
+"55","Bedrijfsmuseum G.E.B.","0","0","0","0",,"363100012119705",
+"218","Begijnhofkerk","0","0","0","0",,"363100012168141",
+"1411","Bejaardenhuis St. Jacob","0","0","0","0","http://vocab.getty.edu/aat/300005674",,"http://verdwenengebouwen.nl/gebouw/1074"
+"1370","Beterhuis","0","0","0","0","http://vocab.getty.edu/aat/300006460",,"http://verdwenengebouwen.nl/gebouw/906"
+"1493","Bethelkapel","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/3321"
+"50","Bethelkerk","0","0","0","0",,"363100012094732",
+"1355","Beurs van Hendrick de Keyser","0","0","0","0","http://vocab.getty.edu/aat/300005222",,"http://verdwenengebouwen.nl/gebouw/239"
+"1327","Beurs van Zocher","0","0","0","0","http://vocab.getty.edu/aat/300005222",,"http://verdwenengebouwen.nl/gebouw/221"
+"1393","Beurspoortje","0","0","0","0","http://vocab.getty.edu/aat/300005621",,"http://verdwenengebouwen.nl/gebouw/1009"
+"235","bibliotheek","0","0","0","0",,"363100012170236",
+"103","bibliotheek Artis","0","0","0","0",,"363100012164975",
+"1357","Blooker","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/240"
+"238","Boas fabrieksschoorsteen","0","0","0","0",,"363100012165615",
+"133","Boerderij de Melkweg","0","0","0","0",,"363100012163761",
+"276","Boerderij Kamplust","0","0","0","0",,"363100012125159",
+"1438","Boerenkoolkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1270"
+"275","Boerhaave kliniek","0","0","0","0",,"363100012233427",
+"129","Boomkerk","0","0","0","0",,"363100012119680",
+"1510","Boompjeskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3737"
+"1464","Boomslootkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1295"
+"1349","Boterwaag","0","0","0","0","http://browser.aat-ned.nl/300312276",,"http://verdwenengebouwen.nl/gebouw/234"
+"266","bovenlicht","0","0","0","0",,"363100012175784",
+"1581","Brandstoffenhandel Beerepoot","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5317"
+"242","Brienenhofje","0","0","0","0",,"363100012177254",
+"1629","Brood en Banket A.C. Smolders","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5681"
+"54","Brouwerij 't IJ","0","0","0","0",,"363100012169757",
+"237","Brug 106","0","0","0","0",,"363100012169060",
+"92","Brug 110","0","0","0","0",,"363100012185422",
+"278","Brug 25","0","0","0","0",,"363100012171902",
+"91","Brug 419","0","0","0","0",,"363100012120606",
+"221","Buiksloterkerk","0","0","0","0",,"363100012160472",
+"1542","Buitengasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3792"
+"1336","Buitengasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/227"
+"1391","Buitenplaats De Eendracht","0","0","0","0","http://vocab.getty.edu/aat/300005567",,"http://verdwenengebouwen.nl/gebouw/1007"
+"62","Bungehuis","0","0","0","0",,"363100012177516",
+"1519","Bunkers Museumplein","0","0","0","0","http://vocab.getty.edu/aat/300006887",,"http://verdwenengebouwen.nl/gebouw/3749"
+"100","Burcht van Berlage","0","0","0","0",,"363100012170603",
+"1334","Burgemeester Tellegenhuis","0","0","0","0","http://vocab.getty.edu/aat/300007043",,"http://verdwenengebouwen.nl/gebouw/226"
+"43","Burgerziekenhuis","0","0","0","0",,"363100012233501",
+"1293","Bushuis","0","0","0","0","http://vocab.getty.edu/aat/300006887",,"http://verdwenengebouwen.nl/gebouw/197"
+"134","Bushuissluis","0","0","0","0",,"363100012165008",
+"1375","C&A Damrak","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/983"
+"1356","Cacaofabriek","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/240"
+"1517","Cadi-Club Prinses Irene","0","0","0","0","http://vocab.getty.edu/aat/300007250",,"http://verdwenengebouwen.nl/gebouw/3742"
+"1589","Cafe Billard Koffiehuis","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5369"
+"273","Café Noord-Holland 1907","0","0","0","0",,"363100012156110",
+"80","Carlton Hotel","0","0","0","0",,"363100012179398",
+"1353","Centraal Theater","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/238"
+"1604","Chemisch en Fysisch Laboratorium","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5475"
+"203","Chr. Middelbare Economische School","0","0","0","0",,"363100012106478",
+"1436","Christelijke Gereformeerde Kerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1268"
+"1550","Cinema International","0","0","0","0","http://vocab.getty.edu/aat/300007135",,"http://verdwenengebouwen.nl/gebouw/3811"
+"1633","Cinema Royal","0","0","0","0","http://vocab.getty.edu/aat/300007135",,"http://verdwenengebouwen.nl/gebouw/5695"
+"111","Cinétol","0","0","0","0",,"363100012155412",
+"128","Claes Reinierszhofje","0","0","0","0",,"363100012174327",
+"1381","Clarissenklooster","0","0","0","0","http://vocab.getty.edu/aat/300006460",,"http://verdwenengebouwen.nl/gebouw/996"
+"1540","Coca-Colafabriek Sloterdijk","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/3790"
+"1394","Commandantshuis","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/1015"
+"1524","Consultatiebureau Waterlooplein","0","0","0","0","http://vocab.getty.edu/aat/300006665",,"http://verdwenengebouwen.nl/gebouw/3753"
+"277","Corantijnschool","0","0","0","0",,"363100012080308",
+"1395","Cornelia, Zaagmolen","0","0","0","0","http://vocab.getty.edu/aat/300264626",,"http://verdwenengebouwen.nl/gebouw/1016"
+"132","Cornelis Krusemanschool","0","0","0","0",,"363100012102419",
+"1584","Coster Diamonds","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5322"
+"182","D'Witte Lelie","0","0","0","0",,"363100012176674",
+"1503","De Arbeiderspers","0","0","0","0","http://vocab.getty.edu/aat/300006247",,"http://verdwenengebouwen.nl/gebouw/3733"
+"87","De Balie","0","0","0","0",,"363100012168684",
+"1","De Bijenkorf","0","0","0","0",,"363100012168052",
+"1576","De Bloem","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4646"
+"1558","De Bul","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4142"
+"63","De Burcht","0","0","0","0",,"363100012170603",
+"44","De Drie Gekroonde Haringen","0","0","0","0",,"363100012171272",
+"172","De Drie Haringen","0","0","0","0",,"363100012171272",
+"1290","De Eendracht","0","0","0","0","http://vocab.getty.edu/aat/300006956",,"http://verdwenengebouwen.nl/gebouw/195"
+"1561","De Hoop","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4148"
+"1526","De Koorndrager","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/3755"
+"1302","De Liefde","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/205"
+"146","De Nieuwe Oosterbegraafplaats","0","0","0","0",,"363100012160996",
+"1433","De Ontmoeting","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1264"
+"1481","De Ontmoeting","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1307"
+"1555","De Opgang","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/4008"
+"1575","De Oranjeboom","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4578"
+"40","De Otter","0","0","0","0",,"363100012158370",
+"26","De Otter (Houtzaagmolen)","0","0","0","0",,"363100012158370",
+"265","De Otter (molen)","0","0","0","0",,"363100012158370",
+"157","De Palmboom","0","0","0","0",,"363100012171180",
+"1462","De Pool","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1293"
+"1488","De Pool","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1311"
+"1461","De r.k. kerk van de H. Anna","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1293"
+"1504","De Rode Burcht","0","0","0","0","http://vocab.getty.edu/aat/300006247",,"http://verdwenengebouwen.nl/gebouw/3733"
+"7","De Rode Hoed","0","0","0","0",,"363100012167695",
+"1573","De Samson / De Bruinvis / De Simson","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4576"
+"1445","De Sayer","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1278"
+"1569","De Spiering/ Spring in 't Veld","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4572"
+"1466","De Star","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1297"
+"1473","De Star","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1302"
+"1467","De Ster","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1297"
+"1474","De Ster","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1302"
+"270","De Transvaalsche Boer","0","0","0","0",,"363100012177361",
+"1505","De Twentsche Bank","0","0","0","0","http://vocab.getty.edu/aat/300005213",,"http://verdwenengebouwen.nl/gebouw/3734"
+"1554","De Uitweg","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3993"
+"1457","De Uitweg","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1288"
+"1478","De Uitweg","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1304"
+"1568","De Victor","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4571"
+"1570","De Wetering","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4573"
+"1484","De Wielingen","0","0","0","0","http://vocab.getty.edu/aat/300006769",,"http://verdwenengebouwen.nl/gebouw/1308"
+"279","de Wittenberg","0","0","0","0",,"363100012164939",
+"1446","De Zaaier","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1278"
+"1279","Dennenrode","0","0","0","0","http://vocab.getty.edu/aat/300005707",,"http://verdwenengebouwen.nl/gebouw/173"
+"1347","Derde Regulierspoort","0","0","0","0","http://browser.aat-ned.nl/300312276",,"http://verdwenengebouwen.nl/gebouw/234"
+"214","Deutzhuis","0","0","0","0",,"363100012179338",
+"198","Diaconie Oude Vrouwen en Mannenhuis","0","0","0","0",,"363100012165553",
+"243","Diaconie Oude Vrouwen Huys","0","0","0","0",,"363100012165553",
+"199","Diaconie Oude Vrouwen- en Mannenhuis der Nederlands Hervormde Gemeente","0","0","0","0",,"363100012165553",
+"193","Diaconie Oude Vrouwenhuis","0","0","0","0",,"363100012165553",
+"209","Diaconie oudemannen en -vrouwenhuis","0","0","0","0",,"363100012165553",
+"1482","Diaconieweeshuis der Nederlands Hervormde gemeente","0","0","0","0","http://vocab.getty.edu/aat/300006769",,"http://verdwenengebouwen.nl/gebouw/1308"
+"158","diamantbewerkersbond","0","0","0","0",,"363100012170603",
+"202","Dierentuin Natura Artis Magistra","0","0","0","0",,"363100012170549",
+"1560","Dikke Molen","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4144"
+"1397","Dolhuis","0","0","0","0","http://vocab.getty.edu/aat/300006672",,"http://verdwenengebouwen.nl/gebouw/1018"
+"1396","Dolhuys","0","0","0","0","http://vocab.getty.edu/aat/300006672",,"http://verdwenengebouwen.nl/gebouw/1018"
+"34","Dr. Sarphatihuis","0","0","0","0",,"363100012164938",
+"251","drogist","0","0","0","0",,"363100012176146",
+"1614","Drukkerij Farbianca","0","0","0","0","http://vocab.getty.edu/aat/300006247",,"http://verdwenengebouwen.nl/gebouw/5572"
+"234","d`Admiraal (molen)","0","0","0","0",,"363100012161029",
+"1392","Eendracht, gebouw de","0","0","0","0","http://vocab.getty.edu/aat/300005567",,"http://verdwenengebouwen.nl/gebouw/1007"
+"1566","Eenhoorn","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4362"
+"1495","Eerste Nederduytsche Academie","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/5301"
+"74","Eerste Openbare Handelsschool","0","0","0","0",,"363100012165430",
+"9","Effectenbeurs","0","0","0","0",,"363100012165051",
+"1640","Egyptisch restaurant De Piramiden","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5707"
+"1435","Eilandskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1266"
+"168","Elisabeth Otter Knol Stichting","0","0","0","0",,"363100012236913",
+"1449","Elthetokerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1280"
+"1398","Emma Kinderziekenhuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3771"
+"281","Emmakerk","0","0","0","0",,"363100012098251",
+"70","Engelse Hervormde Kerk","0","0","0","0",,"363100012168141",
+"185","Engelse presbyteriaanse kerk","0","0","0","0",,"363100012168141",
+"1645","Entreegebouwtje Olympisch Stadion","0","0","0","0","http://vocab.getty.edu/aat/300005621",,"http://verdwenengebouwen.nl/gebouw/5739"
+"223","Episcopal Church","0","0","0","0",,"363100012171165",
+"205","Evangelisch Luthers Diaconiehof","0","0","0","0",,"363100012236718",
+"1588","Feestzalenverhuur Huize Sandman","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5332"
+"1585","Flessen en Kruiken P.A.G. Nieland","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/5326"
+"1583","Flikkercafé Sissy","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/5561"
+"1378","Ford Automobielfabriek NV.","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/988"
+"1328","Fort van Sjako","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/222"
+"1646","Fortis Bank","0","0","0","0","http://vocab.getty.edu/aat/300005214",,"http://verdwenengebouwen.nl/gebouw/5745"
+"1509","Franciscus van Assisi","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3737"
+"1470","Franciscus Xaverius","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1298"
+"292","Frans Hendriksz. Oetgensburg","0","0","0","0",,"363100012182459",
+"1491","Funenkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1314"
+"269","galerij","0","0","0","0",,"363100012177548",
+"164","gasthuispoort","0","0","0","0",,"363100012180196",
+"27","GEB Bedrijfsmuseum","0","0","0","0",,"363100012119705",
+"174","Gebouw de Wittenberg","0","0","0","0",,"363100012164939",
+"167","Gebouw voor den Koffiehandel","0","0","0","0",,"363100012177527",
+"1644","Gebroeders Winter Papier","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5718"
+"1308","Geloof","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/211"
+"73","Gemaal Akersluis","0","0","0","0",,"363100012079396",
+"216","Gemaal Zeeburg","0","0","0","0",,"363100012076661",
+"257","Gemeenschapsmolen","0","0","0","0",,"363100012109735",
+"165","gemeentegirobus","0","0","0","0",,"363100012075951",
+"1607","Gemeentelijk bad en waschhuis","0","0","0","0","http://vocab.getty.edu/aat/300007347",,"http://verdwenengebouwen.nl/gebouw/5477"
+"1523","Gemeentelijke Geneeskundige en Gezondheidsdienst","0","0","0","0","http://vocab.getty.edu/aat/300006665",,"http://verdwenengebouwen.nl/gebouw/3753"
+"18","Gerardus Majellakerk","0","0","0","0",,"363100012097962",
+"197","Gerechtsgebouw","0","0","0","0",,"363100012153698",
+"1455","Gereformeerde Kerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1286"
+"1471","Gereformeerde Kerk","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1299"
+"1448","Gereformeerde Nieuwe Kerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1279"
+"1439","Gereja Kristen Indonesia","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1271"
+"1410","Gesticht St. Jacob","0","0","0","0","http://vocab.getty.edu/aat/300005674",,"http://verdwenengebouwen.nl/gebouw/1074"
+"59","gevelsteen","0","0","0","0",,"363100012179584",
+"175","gevelsteen de Otter","0","0","0","0",,"363100012165081",
+"293","gevelsteen de ram","0","0","0","0",,"363100012168145",
+"250","gevelsteen halve maan","0","0","0","0",,"363100012171579",
+"155","gevelsteen leggen van eerste steen","0","0","0","0",,"363100012166469",
+"249","gevelsteen met de keizerskroon","0","0","0","0",,"363100012171579",
+"252","gevelsteen met jaartal","0","0","0","0",,"363100012169937",
+"25","Gildewapen","0","0","0","0",,"363100012171850",
+"37","Goethe Instituut","0","0","0","0",,"363100012176761",
+"1630","Graanhandel H. Snel","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5683"
+"215","Grafmonument van Gerardus Frederik Westerman","0","0","0","0",,"363100012160996",
+"1513","Groot Banda","0","0","0","0","http://vocab.getty.edu/aat/300005517",,"http://verdwenengebouwen.nl/gebouw/3740"
+"1563","Groot Duivendrechtschepolder","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4153"
+"1515","Grote Wetering","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/3741"
+"1556","H. Christus Geboorte","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/4012"
+"1553","H. Pius X","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3975"
+"1365","Haarlemmerpoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/832"
+"1366","Haarlemmerpoortstation","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/836"
+"41","Hallen van Stork","0","0","0","0",,"363100012164933",
+"117","Hamer- en Bouwershof","0","0","0","0",,"363100012168505",
+"1615","Handel in ijzerwaren","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5574"
+"1296","Haringpakkerstoren","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/199"
+"126","Havencentrale Oost","0","0","0","0",,"363100012078164",
+"1281","Heilige Stede","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/184"
+"1295","Heilige-Kruistoren","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/199"
+"1344","Heiligewegspoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/231"
+"1287","Hembrug","0","0","0","0","http://vocab.getty.edu/aat/300007836",,"http://verdwenengebouwen.nl/gebouw/191"
+"121","Hendrick Jacobsz. Staetsbrug","0","0","0","0",,"363100012165493",
+"1521","Henriettehofje","0","0","0","0","http://browser.aat-ned.nl/900032008",,"http://verdwenengebouwen.nl/gebouw/3751"
+"122","Hervormde Kerk Durgerdam","0","0","0","0",,"363100012155393",
+"32","Het Houten Huys","0","0","0","0",,"363100012175498",
+"1345","Het Houten Stadion","0","0","0","0","http://vocab.getty.edu/aat/300007271",,"http://verdwenengebouwen.nl/gebouw/232"
+"161","het huis aan de 3 grachten","0","0","0","0",,"363100012180205",
+"45","Het Huis met de Hoofden","0","0","0","0",,"363100012177213",
+"1538","Het Nederlandsch Sportpark","0","0","0","0","http://vocab.getty.edu/aat/300007271",,"http://verdwenengebouwen.nl/gebouw/3779"
+"283","Het Nieuwe Huis","0","0","0","0",,"363100012148010",
+"19","Het Schip","0","0","0","0",,"363100012075951",
+"1475","Het Spinnetje","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1302"
+"1537","Het Stadion","0","0","0","0","http://vocab.getty.edu/aat/300007271",,"http://verdwenengebouwen.nl/gebouw/3779"
+"1642","Het Swarte Paart","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5716"
+"246","Het Vosje","0","0","0","0",,"363100012112106",
+"138","Hirsch gebouw","0","0","0","0",,"363100012165488",
+"68","Hofje de Star","0","0","0","0",,"363100012177254",
+"64","Hofkerk","0","0","0","0",,"363100012123068",
+"1400","Hollandsche Gazfabriek","0","0","0","0","http://vocab.getty.edu/aat/300000386",,"http://verdwenengebouwen.nl/gebouw/1027"
+"1399","Hollandse Gasfabriek","0","0","0","0","http://vocab.getty.edu/aat/300000386",,"http://verdwenengebouwen.nl/gebouw/1027"
+"288","Hoofdkantoor GVB","0","0","0","0",,"363100012149855",
+"125","Hoogduits Synagogecomplex","0","0","0","0",,"363100012182038",
+"1280","Hoogduitse Schouwburg","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/176"
+"1309","Hoop en Liefde","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/211"
+"210","Hotel American","0","0","0","0",,"363100012168734",
+"1636","Hotel De Bijenkorf","0","0","0","0","http://vocab.getty.edu/aat/300007166",,"http://verdwenengebouwen.nl/gebouw/5700"
+"1643","Hotel De Gouden Kroon","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5718"
+"47","Hotel Krasnapolsky","0","0","0","0",,"363100012165293",
+"1507","Hotel Polen","0","0","0","0","http://vocab.getty.edu/aat/300007166",,"http://verdwenengebouwen.nl/gebouw/3736"
+"17","Houten Huis","0","0","0","0",,"363100012175498",
+"170","Hugo de Vries Laboratorium","0","0","0","0",,"363100012182570",
+"1535","Huidenkopers-Gildehuis","0","0","0","0","http://vocab.getty.edu/aat/300007049",,"http://verdwenengebouwen.nl/gebouw/3769"
+"1637","Huis aan de Bonte Kraaiengang","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5703"
+"8","Huis de Neufville","0","0","0","0",,"363100012167962",
+"13","Huis De Pinto","0","0","0","0",,"363100012183056",
+"14","Huis de Vicq","0","0","0","0",,"363100012167903",
+"248","Huis Frankendael","0","0","0","0",,"363100012162192",
+"295","Huis Goudstikker","0","0","0","0",,"363100012176236",
+"53","Huis Joan Poppen","0","0","0","0",,"363100012169339",
+"176","Huis Poppen","0","0","0","0",,"363100012169339",
+"256","Huis Sweedenrijck","0","0","0","0",,"363100012176171",
+"24","Huis van Brienen","0","0","0","0",,"363100012176740",
+"151","Huis van Loon","0","0","0","0",,"363100012179302",
+"253","Huisje van Gosler","0","0","0","0",,"363100012182908",
+"123","Huize Frankedael","0","0","0","0",,"363100012162192",
+"33","Huize Van Brienen","0","0","0","0",,"363100012176740",
+"75","Huize Van Loon","0","0","0","0",,"363100012179302",
+"1533","Huydekoopers","0","0","0","0","http://vocab.getty.edu/aat/300007049",,"http://verdwenengebouwen.nl/gebouw/3769"
+"1447","Ignatius","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1278"
+"1518","IJsclubgebouw","0","0","0","0","http://vocab.getty.edu/aat/300007250",,"http://verdwenengebouwen.nl/gebouw/3742"
+"1437","Immanuël","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1269"
+"1641","Indian restaurant The Rani","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5707"
+"1539","Instituut voor Physische Therapie","0","0","0","0","http://vocab.getty.edu/aat/300006665",,"http://verdwenengebouwen.nl/gebouw/3786"
+"101","Jacob Obrechtkerk","0","0","0","0",,"363100012124153",
+"207","Jacob Obrechtplein-synagoge","0","0","0","0",,"363100012074574",
+"1489","Jacobuskapel","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1312"
+"1294","Jan Roodenpoortstoren","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/198"
+"66","Jeruzalemkerk","0","0","0","0",,"363100012120412",
+"1610","Joachimsthal’s Boekhandel, Uitgevers- en Drukkerijbedrijf NV","0","0","0","0","http://vocab.getty.edu/aat/300006247",,"http://verdwenengebouwen.nl/gebouw/5529"
+"1619","Joden Houttuinen 25A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5610"
+"1609","Joden Houttuinen 42A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5498"
+"1621","Joden Houttuinen 49A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5621"
+"1622","Joden Houttuinen 49B","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5622"
+"1623","Joden Houttuinen 49C","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5623"
+"1618","Joden Houttuinen 5-5A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5599"
+"1624","Joden Houttuinen 51A-51B","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5625"
+"1625","Joden Houttuinen 57A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5628"
+"1626","Joden Houttuinen 57B","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5629"
+"1627","Joden Houttuinen 57C","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5630"
+"1628","Johan Breukels Drukkerij","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5681"
+"1486","Johannes de Doper","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1310"
+"178","Kantoorboekhandel Albracht-Siegers","0","0","0","0",,"363100012175309",
+"261","Kapel van Durgerdam","0","0","0","0",,"363100012164807",
+"228","Kas-Associatie N.V","0","0","0","0",,"363100012175847",
+"118","Kattenkabinet","0","0","0","0",,"363100012176760",
+"236","Kerk","0","0","0","0",,"363100012162810",
+"230","Kerk de Krijtberg","0","0","0","0",,"363100012185920",
+"162","kinderkliniek binnengasthuis","0","0","0","0",,"363100012180195",
+"1532","Kiosk Weesperplein","0","0","0","0","http://vocab.getty.edu/aat/300004826",,"http://verdwenengebouwen.nl/gebouw/3759"
+"183","Klein Kalfje","0","0","0","0",,"363100012160652",
+"1520","KLM passagegebouw","0","0","0","0","http://vocab.getty.edu/aat/300007805",,"http://verdwenengebouwen.nl/gebouw/3750"
+"1314","Kloveniersdoelen","0","0","0","0","http://browser.aat-ned.nl/900027122",,"http://verdwenengebouwen.nl/gebouw/215"
+"1452","Koepelkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1283"
+"1603","Koffiehuis","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5474"
+"1593","Koffiehuis 't Haantje","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5424"
+"127","Koffiepellerij Insulinde","0","0","0","0",,"363100012143002",
+"179","Koningssluis","0","0","0","0",,"363100012177446",
+"1401","Koninklijke Waskaarsenfabriek","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/1033"
+"82","Koopermolen","0","0","0","0",,"363100012178048",
+"1354","Koopmansbeurs","0","0","0","0","http://vocab.getty.edu/aat/300005222",,"http://verdwenengebouwen.nl/gebouw/239"
+"102","korbeel","0","0","0","0",,"363100012107079",
+"1342","Korenbeurs","0","0","0","0","http://vocab.getty.edu/aat/300005222",,"http://verdwenengebouwen.nl/gebouw/229"
+"195","Korenmeestershuisje","0","0","0","0",,"363100012179970",
+"1374","Korsjespoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/907"
+"1373","Korskenspoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/907"
+"1402","Kruidhuis","0","0","0","0","http://vocab.getty.edu/aat/300006920",,"http://verdwenengebouwen.nl/gebouw/1034"
+"1405","Kruijt Magazijn int Loopveld","0","0","0","0","http://vocab.getty.edu/aat/300006920",,"http://verdwenengebouwen.nl/gebouw/1034"
+"1403","Kruitmagazijn","0","0","0","0","http://vocab.getty.edu/aat/300006920",,"http://verdwenengebouwen.nl/gebouw/1034"
+"1404","Kruittoren","0","0","0","0","http://vocab.getty.edu/aat/300006920",,"http://verdwenengebouwen.nl/gebouw/1034"
+"160","krul","0","0","0","0",,"363100012175889",
+"291","Kunstnijverheidsschool","0","0","0","0",,"363100012142717",
+"297","L.H. Sarlouisbrug (240)","0","0","0","0",,"363100012169740",
+"1591","Lange Houtstraat 24A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5399"
+"1616","Lange Houtstraat 24B","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5582"
+"1617","Lange Houtstraat 24C","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5583"
+"1358","Lazarushuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/242"
+"1283","Leidsepoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/185"
+"1359","Leprozenhuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/242"
+"1546","LinMij","0","0","0","0","http://vocab.getty.edu/aat/300005153",,"http://verdwenengebouwen.nl/gebouw/3794"
+"1496","Logement Het Rondeel","0","0","0","0","http://vocab.getty.edu/aat/300007170",,"http://verdwenengebouwen.nl/gebouw/5300"
+"1598","Lompen en Metalen F. Stubbe & Zoon","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5447"
+"1534","Looijers en Schoenmakers Comtoir","0","0","0","0","http://vocab.getty.edu/aat/300007049",,"http://verdwenengebouwen.nl/gebouw/3769"
+"1453","Lucas","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1284"
+"1567","Luipaard","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4363"
+"114","Lutherhof","0","0","0","0",,"363100012236718",
+"1454","Lutherhuis","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1285"
+"259","luthers diaconessen inrichting","0","0","0","0",,"363100012236925",
+"298","Luthers Diaconiehuis","0","0","0","0",,"363100012165762",
+"109","Luthers verpleegtehuis","0","0","0","0",,"363100012164939",
+"119","Magna Plaza","0","0","0","0",,"363100012167578",
+"1578","Maranathakerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/4902"
+"206","Maranathakerk","0","0","0","0",,"363100012110684",
+"1472","Maria Magdalena","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1300"
+"99","Maria Magdalenakerk","0","0","0","0",,"363100012236080",
+"21","marine etablissement","0","0","0","0",,"363100012165822",
+"1529","Marinepaleis","0","0","0","0","http://vocab.getty.edu/aat/300006887",,"http://verdwenengebouwen.nl/gebouw/3756"
+"89","Mariniersbrug","0","0","0","0",,"363100012181492",
+"139","marmottenhuis","0","0","0","0",,"363100012236421",
+"187","Martelaren van Gorcumkerk","0","0","0","0",,"363100012123068",
+"1335","Maupoleum","0","0","0","0","http://vocab.getty.edu/aat/300007043",,"http://verdwenengebouwen.nl/gebouw/226"
+"1303","Meerhuizen","0","0","0","0","http://vocab.getty.edu/aat/300006891",,"http://verdwenengebouwen.nl/gebouw/206"
+"212","Melkfabriek Sterovita","0","0","0","0",,"363100012236879",
+"1631","Melkinrichting","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5684"
+"1632","Melkinrichting De Toekomst","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5687"
+"1582","Metaalwarenfabriek Heijmeta","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/5560"
+"189","Metz & Co","0","0","0","0",,"363100012176395",
+"274","mirakelkolommen","0","0","0","0",,"363100012171431",
+"143","Molen 'De Korenbloem'","0","0","0","0",,"363100012165350",
+"1564","Molen 2 van de Buikslotermeer","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4157"
+"31","Molen de Otter","0","0","0","0",,"363100012158370",
+"1494","Muiderkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/3322"
+"142","Muiderpoortstation","0","0","0","0",,"363100012139571",
+"219","Museum Amstelkring, Ons Lieve Heer op Solder","0","0","0","0",,"363100012178021",
+"239","Museum Energetica","0","0","0","0",,"363100012165818",
+"77","Museum Het Schip","0","0","0","0",,"363100012075951",
+"81","museum Willet Holthuysen","0","0","0","0",,"363100012171562",
+"1638","Musico nommé le Pyl","0","0","0","0","http://vocab.getty.edu/aat/300007218",,"http://verdwenengebouwen.nl/gebouw/5706"
+"1639","Muziek- en speelhuis De Pijl","0","0","0","0","http://vocab.getty.edu/aat/300007218",,"http://verdwenengebouwen.nl/gebouw/5706"
+"51","N.H. kerk","0","0","0","0",,"363100012162454",
+"58","N.H. kerk Zunderdorp","0","0","0","0",,"363100012161733",
+"226","N.H. Petruskerk","0","0","0","0",,"363100012163298",
+"56","N.H. Sloterkerk","0","0","0","0",,"363100012137946",
+"1545","N.V. Amsterdamsche Poetsdoekenfabriek en Linnenverhuurmaatschapij Nederland","0","0","0","0","http://vocab.getty.edu/aat/300005153",,"http://verdwenengebouwen.nl/gebouw/3794"
+"1291","Naatje van de Dam","0","0","0","0","http://vocab.getty.edu/aat/300006956",,"http://verdwenengebouwen.nl/gebouw/195"
+"65","Nassaukerk","0","0","0","0",,"363100012237328",
+"71","Nederlands Hervormde Kerk","0","0","0","0",,"363100012144206",
+"267","Nederlands Hervormde Sloterkerk","0","0","0","0",,"363100012137946",
+"130","Nederlands-Indische Handelsbank","0","0","0","0",,"363100012167627",
+"1587","Nederlandsch Israëlitisch Jongens Weeshuis","0","0","0","0","http://vocab.getty.edu/aat/300006769",,"http://verdwenengebouwen.nl/gebouw/5328"
+"1351","Nederlandsch Panopticum","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/238"
+"67","Nederlandsch-Indische Handelsbank","0","0","0","0",,"363100012167627",
+"1301","Nicolaas en Barbara","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/205"
+"1384","Nicolaas Maesschool","0","0","0","0","http://vocab.getty.edu/aat/300006495",,"http://verdwenengebouwen.nl/gebouw/999"
+"268","Nieuw-Apostolische Kerk","0","0","0","0",,"363100012108972",
+"1544","Nieuwe Buitengasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3792"
+"5","Nieuwe Oosterbegraafplaats","0","0","0","0",,"363100012160996",
+"1348","Nieuwe Regulierspoort","0","0","0","0","http://browser.aat-ned.nl/300312276",,"http://verdwenengebouwen.nl/gebouw/234"
+"1292","Nieuwe Schouwburg","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/196"
+"1377","Nieuwe stadsherberg","0","0","0","0","http://vocab.getty.edu/aat/300007170",,"http://verdwenengebouwen.nl/gebouw/987"
+"15","Nieuwe Suykerhofje","0","0","0","0",,"363100012174885",
+"38","Nieuwe Synagoge","0","0","0","0",,"363100012182037",
+"11","Nieuwe Waalse Kerk","0","0","0","0",,"363100012179330",
+"72","Nieuwe Walenkerk","0","0","0","0",,"363100012179330",
+"1282","Nieuwezijds Kapel","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/184"
+"186","NMB Bank","0","0","0","0",,"363100012079990",
+"1343","Noodziekenhuis Zeeburg","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/230"
+"262","Obrechthuys","0","0","0","0",,"363100012163687",
+"136","oeil-de boeuf","0","0","0","0",,"363100012180283",
+"1514","Onderlinge Vereeniging van Veehouders tot Verkoop van Zuivere Koemelk","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/3741"
+"163","Ons'Lieve Heer op Solder","0","0","0","0",,"363100012178021",
+"95","Ons’ Lieve Heer op Solder","0","0","0","0",,"363100012178021",
+"227","Onze-Lieve-Vrouwe kerk","0","0","0","0",,"363100012169365",
+"76","Oostergasfabriek","0","0","0","0",,"363100012236879",
+"282","Openbare Bibliotheek","0","0","0","0",,"363100012102751",
+"231","opslagplaats","0","0","0","0",,"363100012165822",
+"1572","Oranjeboom","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4575"
+"1341","Oude Brug","0","0","0","0","http://vocab.getty.edu/aat/300007836",,"http://verdwenengebouwen.nl/gebouw/228"
+"1339","Oude Buitengasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/227"
+"1361","Oude Doelen","0","0","0","0","http://browser.aat-ned.nl/900027122",,"http://verdwenengebouwen.nl/gebouw/245"
+"1362","Oude Stadhuis van Amsterdam","0","0","0","0","http://vocab.getty.edu/aat/300122210",,"http://verdwenengebouwen.nl/gebouw/246"
+"1340","Oudebrug","0","0","0","0","http://vocab.getty.edu/aat/300007836",,"http://verdwenengebouwen.nl/gebouw/228"
+"20","Oudemanhuispoort","0","0","0","0",,"363100012171179",
+"1459","Overtoomkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1291"
+"140","P.C. Hoofthuis","0","0","0","0",,"363100012165429",
+"1325","P.T.T. gebouw","0","0","0","0","http://vocab.getty.edu/aat/300006036",,"http://verdwenengebouwen.nl/gebouw/220"
+"1329","Paalhuis","0","0","0","0","http://vocab.getty.edu/aat/300007049",,"http://verdwenengebouwen.nl/gebouw/223"
+"107","Paedologisch instituut","0","0","0","0",,"363100012067476",
+"1527","Pakhuis de Korendrager","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/3755"
+"1528","Paleis","0","0","0","0","http://vocab.getty.edu/aat/300006887",,"http://verdwenengebouwen.nl/gebouw/3756"
+"1278","Paleis voor Volksvlijt","0","0","0","0","http://vocab.getty.edu/aat/300005748",,"http://verdwenengebouwen.nl/gebouw/1"
+"1352","Panopticumgebouw","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/238"
+"1530","Panoramagebouw","0","0","0","0","http://vocab.getty.edu/aat/300005748",,"http://verdwenengebouwen.nl/gebouw/3757"
+"1531","Panoramagebouw","0","0","0","0","http://vocab.getty.edu/aat/300005748",,"http://verdwenengebouwen.nl/gebouw/3758"
+"35","Paradiso","0","0","0","0",,"363100012169473",
+"30","Parkkerk","0","0","0","0",,"363100012082170",
+"1360","Parkschouwburg","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/244"
+"1376","Passage Bioscoop","0","0","0","0","http://vocab.getty.edu/aat/300007135",,"http://verdwenengebouwen.nl/gebouw/984"
+"1332","Paulusbroederklooster","0","0","0","0","http://vocab.getty.edu/aat/300000641",,"http://verdwenengebouwen.nl/gebouw/225"
+"1412","Pauwentuin","0","0","0","0","http://vocab.getty.edu/aat/300007170",,"http://verdwenengebouwen.nl/gebouw/5302"
+"94","Paviljoen Het Tolhuis","0","0","0","0",,"363100012066897",
+"1552","Perry's reuzenkoffer","0","0","0","0","http://vocab.getty.edu/aat/300006795",,"http://verdwenengebouwen.nl/gebouw/3830"
+"1338","Pest Huys","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/227"
+"1543","Pesthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/3792"
+"1337","Pesthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/227"
+"149","Pieter Goemansbrug","0","0","0","0",,"363100012165427",
+"1406","Pietersgasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/1069"
+"1408","Pieterspoort, St.","0","0","0","0","http://vocab.getty.edu/aat/300005621",,"http://verdwenengebouwen.nl/gebouw/1070"
+"191","pilaar","0","0","0","0",,"363100012167502",
+"1479","Pinksterkapel","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1305"
+"1443","Pius X","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1275"
+"1460","Plantagekerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1292"
+"1605","Politiebureau Houtmarkt","0","0","0","0","http://vocab.getty.edu/aat/300006049",,"http://verdwenengebouwen.nl/gebouw/5553"
+"52","politieburo warmoesstraat","0","0","0","0",,"363100012165091",
+"280","Pontanusschool","0","0","0","0",,"363100012098330",
+"241","Post CS gebouw","0","0","0","0",,"363100012164965",
+"1326","Post CS-gebouw","0","0","0","0","http://vocab.getty.edu/aat/300006036",,"http://verdwenengebouwen.nl/gebouw/220"
+"1463","Prinsengrachtkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1294"
+"49","Prinsenhof","0","0","0","0",,"363100012186196",
+"60","Prinses Julianaschool","0","0","0","0",,"363100012085614",
+"61","Prinsessekerk","0","0","0","0",,"363100012071137",
+"1480","Prinsessekerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1306"
+"57","Purmerschool","0","0","0","0",,"363100012113661",
+"247","R.C. Armenkantoor","0","0","0","0",,"363100012174123",
+"296","R.C. Maagdenhuis","0","0","0","0",,"363100012167925",
+"78","R.K. Armenkantoor","0","0","0","0",,"363100012174123",
+"284","R.K. kerk Sint Agnes","0","0","0","0",,"363100012166358",
+"36","R.K. Onze Lieve Vrouwe Kerk","0","0","0","0",,"363100012169365",
+"90","R.K. Sint Pancratiuskerk","0","0","0","0",,"363100012165936",
+"1441","Raamkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1273"
+"1380","Raampoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/995"
+"166","Raphaëlpleinkerk","0","0","0","0",,"363100012121480",
+"1382","Rasphuis","0","0","0","0","http://vocab.getty.edu/aat/300006460",,"http://verdwenengebouwen.nl/gebouw/996"
+"86","Raw Aron Schuster Sjoel","0","0","0","0",,"363100012074574",
+"272","Raw Aron Synagoge (Obrechtsjoel)","0","0","0","0",,"363100012074574",
+"201","Rechtbank","0","0","0","0",,"363100012153698",
+"42","Rechtbank Amsterdam","0","0","0","0",,"363100012153698",
+"1369","Regulierspoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/887"
+"1490","Rehobothkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1313"
+"1608","Rembrandt Bioscope","0","0","0","0","http://vocab.getty.edu/aat/300007135",,"http://verdwenengebouwen.nl/gebouw/5497"
+"1536","Rembrandt Theater","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/3770"
+"1551","Reuzen-olifant","0","0","0","0","http://vocab.getty.edu/aat/300006795",,"http://verdwenengebouwen.nl/gebouw/3829"
+"1409","Riekermolen","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/1073"
+"105","Rijksacademie voor Beeldende Kunsten","0","0","0","0",,"363100012119240",
+"184","Rijksmuseum Vincent van Gogh","0","0","0","0",,"363100012098679",
+"1383","Roemer Visscherschool","0","0","0","0","http://vocab.getty.edu/aat/300006495",,"http://verdwenengebouwen.nl/gebouw/999"
+"1313","Rondeel","0","0","0","0","http://vocab.getty.edu/aat/300006888",,"http://verdwenengebouwen.nl/gebouw/214"
+"1477","Rooms-Katholieke Kerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1303"
+"152","Sarphatihuis","0","0","0","0",,"363100012164938",
+"258","Scheepswerf Bierenbroodspot","0","0","0","0",,"363100012176991",
+"85","Scheepswerf ‘t Kromhout","0","0","0","0",,"363100012170270",
+"1612","Schouwburg van Van Campen","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/5563"
+"1371","Schurfthuis","0","0","0","0","http://vocab.getty.edu/aat/300006460",,"http://verdwenengebouwen.nl/gebouw/906"
+"229","Singelkerk","0","0","0","0",,"363100012171741",
+"244","Sint Aloysiusschool","0","0","0","0",,"363100012168899",
+"1468","Sint Augustinus","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1297"
+"1330","Sint Jorisgasthuis","0","0","0","0","http://vocab.getty.edu/aat/300007417",,"http://verdwenengebouwen.nl/gebouw/224"
+"1331","Sint Jorishof","0","0","0","0","http://vocab.getty.edu/aat/300007417",,"http://verdwenengebouwen.nl/gebouw/224"
+"4","Sint Nicolaaskerk","0","0","0","0",,"363100012165691",
+"3","Sint Olofskapel","0","0","0","0",,"363100012178065",
+"1286","Sint Olofspoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/190"
+"97","Sint Pietershal","0","0","0","0",,"363100012167473",
+"233","Sint Ritakerk en Rosa Klooster","0","0","0","0",,"363100012132809",
+"88","Sint Rosaklooster","0","0","0","0",,"363100012118331",
+"1307","Sint-Annakerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/210"
+"1487","Sint-Annakerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1311"
+"1311","Sint-Bonifatiuskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/212"
+"1310","Sint-Catharinakerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/211"
+"144","Sint-Pancratiuskerk","0","0","0","0",,"363100012165936",
+"1333","Sint-Paulusbroederklooster","0","0","0","0","http://vocab.getty.edu/aat/300000641",,"http://verdwenengebouwen.nl/gebouw/225"
+"150","Sint-Ritakerk","0","0","0","0",,"363100012132809",
+"1601","Slagerij De Hoek","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5462"
+"1413","Slijpmolen","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/1078"
+"98","Sloterkerk","0","0","0","0",,"363100012137946",
+"1458","Sloterkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1289"
+"1549","Sloterparkbad","0","0","0","0","http://vocab.getty.edu/aat/300007376",,"http://verdwenengebouwen.nl/gebouw/3810"
+"1429","Slotervaart","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1260"
+"46","Sociale Verzekeringsbank","0","0","0","0",,"363100012120606",
+"112","Sociëteit Arti et Amicitiae","0","0","0","0",,"363100012165109",
+"29","Sonnenberg","0","0","0","0",,"363100012176590",
+"1385","Spinhuis","0","0","0","0","http://vocab.getty.edu/aat/300000641",,"http://verdwenengebouwen.nl/gebouw/1001"
+"173","Spinhuis","0","0","0","0",,"363100012178653",
+"211","Sportfondsenbad Oost","0","0","0","0",,"363100012236879",
+"1595","Springer's Metaalhandel","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5430"
+"232","St Nicolaaskerk","0","0","0","0",,"363100012165691",
+"1407","St. Pietersgasthuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/1069"
+"1386","St. Ursulaklooster","0","0","0","0","http://vocab.getty.edu/aat/300000641",,"http://verdwenengebouwen.nl/gebouw/1001"
+"1456","St.Geertruid","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1287"
+"1284","Stadion De Meer","0","0","0","0","http://vocab.getty.edu/aat/300007271",,"http://verdwenengebouwen.nl/gebouw/186"
+"224","Stadsdoelen","0","0","0","0",,"363100012169338",
+"12","Stadsschouwbug","0","0","0","0",,"363100012168738",
+"1414","Stamper","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/1078"
+"204","Staringhofje","0","0","0","0",,"363100012236718",
+"1285","Station Amsterdam De Vlugtlaan","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/189"
+"1297","Station Amsterdam Koenenkade","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/200"
+"1312","Station Amsterdam Oosterdok","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/213"
+"1300","Station Amsterdam Petroleumhaven","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/203"
+"1289","Station Amsterdam Weesperpoort","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/193"
+"1298","Station Amsterdam Westerdok","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/201"
+"1299","Station Amsterdam Zaanstraat","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/202"
+"1541","Station Sloterdijk Zuid","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/3791"
+"1367","Station Willemspoort","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/836"
+"1324","Stationspostkantoor","0","0","0","0","http://vocab.getty.edu/aat/300006036",,"http://verdwenengebouwen.nl/gebouw/220"
+"208","Stichting Werf `t Kromhout","0","0","0","0",,"363100012170270",
+"1602","Stiefbeen en Zoon","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5473"
+"108","Stoofbrug","0","0","0","0",,"363100012171790",
+"1305","Stopplaats Sint Anthoniedijk","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/208"
+"1304","Stopplaats Spaarndammerdijk-Houthaven","0","0","0","0","http://vocab.getty.edu/aat/300007783",,"http://verdwenengebouwen.nl/gebouw/207"
+"1599","Stroomarktsjoel","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5457"
+"1579","Suikerfabriek Bolwerk","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/5306"
+"1416","Suikerfabriek De Granaatappel","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/1086"
+"1415","Suikerfabriek Rupe & Zoon","0","0","0","0","http://vocab.getty.edu/aat/300006232",,"http://verdwenengebouwen.nl/gebouw/1085"
+"200","Surp Hoki","0","0","0","0",,"363100012182791",
+"1317","Svygh Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"16","Swigtershofje","0","0","0","0",,"363100012171132",
+"1318","Swijgh Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"1322","Swych Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"1316","Swygh Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"1319","Swyght Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"1592","Synagoge Lange Houtstraat","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5406"
+"1597","Synagoge Reisjies Touv","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5440"
+"1596","Synagoge Waterlooplein","0","0","0","0","http://vocab.getty.edu/aat/300007590",,"http://verdwenengebouwen.nl/gebouw/5430"
+"1586","Tabakspakhuis","0","0","0","0","http://vocab.getty.edu/aat/300265138",,"http://verdwenengebouwen.nl/gebouw/5327"
+"1635","Tapperij De Zon","0","0","0","0","http://vocab.getty.edu/aat/300007166",,"http://verdwenengebouwen.nl/gebouw/5700"
+"147","Telegraafgebouw","0","0","0","0",,"363100012167525",
+"115","Theater De Balie","0","0","0","0",,"363100012168684",
+"1431","Theresiakapel","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1262"
+"1465","Thomas van Aquino","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1296"
+"1606","Tip Top Theater","0","0","0","0","http://vocab.getty.edu/aat/300007117",,"http://verdwenengebouwen.nl/gebouw/5476"
+"48","Tolhuis","0","0","0","0",,"363100012066897",
+"93","Toneelmuseum","0","0","0","0",,"363100012176410",
+"213","top van de oudekerkstoren","0","0","0","0",,"363100012178469",
+"263","tramremise van de AOM","0","0","0","0",,"363100012233440",
+"192","trappenhuis","0","0","0","0",,"363100012176731",
+"1613","Tuinstraat 115 A","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/5566"
+"1620","Uilenburgersteeg ?","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5611"
+"222","Uilenburgersynagoge","0","0","0","0",,"363100012181889",
+"1547","Uitbreiding LinMij","0","0","0","0","http://vocab.getty.edu/aat/300005153",,"http://verdwenengebouwen.nl/gebouw/3795"
+"131","Universiteitstheater","0","0","0","0",,"363100012180412",
+"156","urinoir","0","0","0","0",,"363100012240309",
+"1321","Utrecht Swijgh","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
+"1346","Utrechtsepoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/233"
+"124","van Brienenhuis","0","0","0","0",,"363100012176740",
+"1600","Van Gelder's Machinehandel","0","0","0","0","http://vocab.getty.edu/aat/300005283",,"http://verdwenengebouwen.nl/gebouw/5461"
+"1372","Verbeterhuis bij de Weteringpoort","0","0","0","0","http://vocab.getty.edu/aat/300006460",,"http://verdwenengebouwen.nl/gebouw/906"
+"104","Vergulde Eenhoorn","0","0","0","0",,"363100012164695",
+"106","verzorgingstehuis de RietVinck","0","0","0","0",,"363100012165065",
+"120","Vier Heemskinderen","0","0","0","0",,"363100012169508",
+"83","Vierde Ambachtsschool","0","0","0","0",,"363100012154874",
+"289","Villa Betty","0","0","0","0",,"363100012236109",
+"135","Villa Cato","0","0","0","0",,"363100012236295",
+"169","Villa Klatte","0","0","0","0",,"363100012094660",
+"84","Villa Oud Leyerhoven","0","0","0","0",,"363100012159043",
+"294","Villa Oud Leyerhoven II","0","0","0","0",,"363100012159043",
+"110","Villa Quisisana","0","0","0","0",,"363100012236987",
+"96","Villa Reens","0","0","0","0",,"363100012075424",
+"260","villa Roelvink","0","0","0","0",,"363100012160188",
+"145","Villa Rosa","0","0","0","0",,"363100012122723",
+"1525","Vishal","0","0","0","0","http://vocab.getty.edu/aat/300005243",,"http://verdwenengebouwen.nl/gebouw/3754"
+"1417","Vispoortje","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/1092"
+"190","VOC schip","0","0","0","0",,"363100012165822",
+"1323","Voetboogdoelen","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/218"
+"1451","Voorlopige St. Ritakerk","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1282"
+"177","Vredenhofje","0","0","0","0",,"363100012171648",
+"1418","Vredeskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1093"
+"1387","Vrieshuis Amerika","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1003"
+"286","Vrije Katholieke kerk","0","0","0","0",,"363100012069171",
+"1497","Waag op de Dam","0","0","0","0","http://browser.aat-ned.nl/300312276",,"http://verdwenengebouwen.nl/gebouw/3672"
+"1442","Waalkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1274"
+"1485","Waalkerk noodkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1309"
+"196","Walenkerk","0","0","0","0",,"363100012171206",
+"1419","Walenweeshuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1094"
+"1611","Waterlooplein 61-61A","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/5546"
+"1577","Waterpoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/4784"
+"159","watertoren","0","0","0","0",,"363100012160391",
+"1499","Watertoren Amsterdam, Nieuwer-Amstel","0","0","0","0","http://vocab.getty.edu/aat/300006204",,"http://verdwenengebouwen.nl/gebouw/3688"
+"1501","Watertoren Amsterdam, Sloten","0","0","0","0","http://vocab.getty.edu/aat/300006204",,"http://verdwenengebouwen.nl/gebouw/3690"
+"1498","Watertoren Amsterdam, Westergasfabriek","0","0","0","0","http://vocab.getty.edu/aat/300006204",,"http://verdwenengebouwen.nl/gebouw/3687"
+"1500","Watertoren Watergraafsmeer","0","0","0","0","http://vocab.getty.edu/aat/300006204",,"http://verdwenengebouwen.nl/gebouw/3689"
+"1440","Weerenkapel","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1272"
+"1483","Weeshuis aan de Wielingenstraat","0","0","0","0","http://vocab.getty.edu/aat/300006769",,"http://verdwenengebouwen.nl/gebouw/1308"
+"1288","Weesperpoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/192"
+"1516","Wehrmachtsheim Erika","0","0","0","0","http://vocab.getty.edu/aat/300007250",,"http://verdwenengebouwen.nl/gebouw/3742"
+"6","werf Monumentenzorg","0","0","0","0",,"363100012181889",
+"245","Werf Monumentnzorg","0","0","0","0",,"363100012090614",
+"1420","Werkhuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1095"
+"240","werkplaats","0","0","0","0",,"363100012165818",
+"141","Werkspoormuseum","0","0","0","0",,"363100012170533",
+"1557","West Bijlmer Watermolen","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4140"
+"1388","West-Indischhuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1004"
+"2","Westerkerk","0","0","0","0",,"363100012174221",
+"113","Westerkerkstoren","0","0","0","0",,"363100012174221",
+"1350","Weteringpoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/236"
+"1306","Wibauthuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/209"
+"1502","Wielerbaan Zeeburg","0","0","0","0","http://vocab.getty.edu/aat/300007271",,"http://verdwenengebouwen.nl/gebouw/3713"
+"1444","Wijkhaven","0","0","0","0","http://vocab.getty.edu/aat/300007391",,"http://verdwenengebouwen.nl/gebouw/1276"
+"1421","Wijnkopersgildehuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1096"
+"180","Wilde Wingerdschool","0","0","0","0",,"363100012088827",
+"1389","Wilhelmina Gasthuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1005"
+"1422","Wilhelmina ziekenhuis","0","0","0","0","http://vocab.getty.edu/aat/300006676",,"http://verdwenengebouwen.nl/gebouw/1097"
+"79","Willemspoort","0","0","0","0",,"363100012176980",
+"1430","Willibrordus buiten de Veste","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1261"
+"1450","Willibrordus buiten de Veste","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1281"
+"1423","Willibrorduskerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/1098"
+"1562","windmolen","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4150"
+"1511","Winkelgalerij Vijzelstraat","0","0","0","0","http://vocab.getty.edu/aat/300005433",,"http://verdwenengebouwen.nl/gebouw/3738"
+"1364","Woestduinkerk","0","0","0","0","http://vocab.getty.edu/aat/300007466",,"http://verdwenengebouwen.nl/gebouw/248"
+"1571","Wolf","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4574"
+"1574","Wolf","0","0","0","0","http://vocab.getty.edu/aat/300006273",,"http://verdwenengebouwen.nl/gebouw/4577"
+"1424","Wolhuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1099"
+"1363","Woonoord Atatürk","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/247"
+"271","World Trade Center Amsterdam","0","0","0","0",,"363100012096613",
+"1506","Wyers","0","0","0","0","http://vocab.getty.edu/aat/300005147",,"http://verdwenengebouwen.nl/gebouw/3735"
+"1368","Zaagmolenpoort","0","0","0","0","http://vocab.getty.edu/aat/300005080",,"http://verdwenengebouwen.nl/gebouw/838"
+"1425","Zacharias Janseschool","0","0","0","0","http://vocab.getty.edu/aat/300006495",,"http://verdwenengebouwen.nl/gebouw/1100"
+"188","Zeemanshoop","0","0","0","0",,"363100012175382",
+"1427","Zeemanshuis","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1102"
+"1315","Zilverberg","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/216"
+"181","Zonne-Wijzer","0","0","0","0",,"363100012134352",
+"153","Zonnehuis","0","0","0","0",,"363100012092742",
+"1428","Zuidergasfabriek","0","0","0","0",,,"http://verdwenengebouwen.nl/gebouw/1103"
+"148","Zuiderschool","0","0","0","0",,"363100012075107",
+"1390","Zusterschool van de Heilige Johannes","0","0","0","0","http://vocab.getty.edu/aat/300006495",,"http://verdwenengebouwen.nl/gebouw/1006"
+"1320","Zwigt Utrecht","0","0","0","0","http://vocab.getty.edu/aat/300004847",,"http://verdwenengebouwen.nl/gebouw/217"
